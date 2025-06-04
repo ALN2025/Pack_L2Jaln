@@ -1,7 +1,10 @@
 # L2Jaln Server Version Documentation
 
+Esta documentação detalha a versão do servidor L2Jaln, baseado no aCis 382 (High Five) e com **total compatibilidade com clientes Interlude (Protocolo 730) e High Five (Protocolo 746)**.
+
 ## Versão do Servidor
-- **Base:** aCis 382 (High Five)
+- **Base:** aCis 382 (Int/HF)
+- **Protocolo:** 730 (Interlude)
 - **Protocolo:** 746 (High Five)
 - **Login Server Protocol:** 258
 - **Game Server Protocol:** 258 (0x0102)

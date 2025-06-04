@@ -1,4 +1,10 @@
-# L2Jaln
+# L2JALN - Lineage 2 Java Server Pack ✨
+[![Java](https://img.shields.io/badge/Java-17+-blue)](https://www.java.com/)
+[![Status](https://img.shields.io/badge/status-Ativo-green)](https://github.com/ALN2025/Pack_L2Jaln/actions)
+[![Encoding](https://img.shields.io/badge/Encoding-UTF8-blue)](https://en.wikipedia.org/wiki/UTF-8)
+[![Build](https://img.shields.io/badge/Build-Apache%20Ant-red)](https://ant.apache.org/)
+[![License](https://img.shields.io/badge/License-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0)
+[![Project](https://img.shields.io/badge/Project-L2J--aln-orange)](https://github.com/ALN2025/Pack_L2Jaln)
 
 L2Jaln é um servidor Lineage II baseado no aCis 382 (High Five), desenvolvido por Anderson Luis do Nascimento (A.L.N).
 
@@ -43,6 +49,7 @@ L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que o
 - Sistema operacional: Windows/Linux
 
 ### Cliente
+- Cliente Lineage II Interlude (Protocolo 730)
 - Cliente Lineage II High Five (Protocolo 746)
 - Suporte a UTF-8
 - DirectX 9.0c ou superior
