@@ -79,7 +79,7 @@ Esta documentação detalha a versão do servidor L2Jaln, baseado no aCis 382 (H
 - Menos bugs
 - Mais compatível com mods antigos
 
-### aCis 382 (High Five) - Nossa Versão
+### aCis 382 (Interlude/High Five) - Nossa Versão
 - Protocolo 746
 - Mais recursos
 - Sistemas mais avançados
@@ -129,9 +129,9 @@ Para suporte técnico ou dúvidas sobre a versão, entre em contato com:
 - Discord: [Seu Discord]
 
 ## Histórico de Versões
-- **Versão Atual:** aCis 382 (High Five)
-- **Última Atualização:** [Data]
-- **Próxima Atualização Planejada:** [Data]
+- **Versão Atual:** aCis 382 (Int/HF)
+- **Última Atualização:** [04/06/2025]
+- **Próxima Atualização Planejada:** [sem data]
 
 ## Notas de Desenvolvimento
 - Baseado em aCis 382
@@ -141,5 +141,5 @@ Para suporte técnico ou dúvidas sobre a versão, entre em contato com:
 - Otimizações de performance realizadas
 
 ---
-*Documento gerado em: [Data]*
-*Última atualização: [Data]* 
+*Documento gerado em: [04/06/2025]*
+*Última atualização: [04/06/2025]* 
