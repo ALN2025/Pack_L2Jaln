@@ -59,7 +59,8 @@ L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (Int/HF), que ofer
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/L2Jaln.git
+git clone https://github.com/ALN2025/Pack_L2Jaln
+
 ```
 
 2. Configure o banco de dados:
