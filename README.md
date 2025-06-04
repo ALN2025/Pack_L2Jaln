@@ -14,8 +14,9 @@ L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que o
 
 ### 🛡️ Características Principais
 
-- Baseado em aCis 382 (High Five)
-- Protocolo 746
+- Baseado em aCis 382 (Int/HF)
+- Protocolo 730 (Interlude)
+- Protocolo 746 (High Five)
 - Sistema de proteção HWID
 - Sistema de criptografia Blowfish
 - Sistema de autenticação RSA
@@ -107,7 +108,6 @@ Este projeto é distribuído sob a licença [GPL-3.0](LICENSE).
 
 - Equipe aCis pelo código fonte limpo
 - Comunidade L2J/Brasil pelos mods selecionados
-- Todos os contribuidores do projeto
 
 ---
 *Desenvolvido por Anderson Luis do Nascimento (A.L.N)* 
