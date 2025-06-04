@@ -8,11 +8,11 @@
 
 L2Jaln é um servidor Lineage II baseado no aCis 382 (High Five), desenvolvido por Anderson Luis do Nascimento (A.L.N).
 
-## Sobre o Projeto
+## ✨ Sobre o Projeto
 
 L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que oferece uma experiência de jogo completa e estável. O projeto inclui várias modificações personalizadas e melhorias em relação à base original.
 
-### Características Principais
+### 🛡️ Características Principais
 
 - Baseado em aCis 382 (High Five)
 - Protocolo 746
@@ -23,7 +23,7 @@ L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que o
 - Sistema de proteção contra flood
 - Sistema de proteção de IP
 
-### Recursos Implementados
+### 🛠️ Recursos Implementados
 
 - Sistema de Transformações
 - Sistema de Vitality
@@ -39,7 +39,7 @@ L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que o
 - Sistema de Rankings
 - Sistema de Recomendações
 
-## Requisitos do Sistema
+## 💻 Requisitos do Sistema
 
 ### Servidor
 - Java 8 ou superior
@@ -54,7 +54,7 @@ L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que o
 - Suporte a UTF-8
 - DirectX 9.0c ou superior
 
-## Instalação
+## 📥 Instalação
 
 1. Clone o repositório:
 ```bash
@@ -85,25 +85,25 @@ git clone https://github.com/seu-usuario/L2Jaln.git
 ./startGameServer.bat
 ```
 
-## Documentação
+## 📚 Documentação
 
 Para mais informações sobre a versão e configurações do servidor, consulte:
 - [Documentação da Versão](SERVER_VERSION.md)
 - [Guia de Configuração](docs/CONFIGURATION.md)
 - [Guia de Instalação](docs/INSTALLATION.md)
 
-## Suporte
+## 🙋 Suporte
 
 Para suporte técnico ou dúvidas sobre o projeto, entre em contato com:
 - Desenvolvedor: Anderson Luis do Nascimento (A.L.N)
 - Email: [Seu email]
 - Discord: [Seu Discord]
 
-## Licença
+## 📄 Licença
 
 Este projeto é distribuído sob a licença [GPL-3.0](LICENSE).
 
-## Agradecimentos
+## 🙏 Agradecimentos
 
 - Equipe aCis pelo código fonte limpo
 - Comunidade L2J/Brasil pelos mods selecionados
