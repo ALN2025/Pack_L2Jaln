@@ -1,71 +1,106 @@
-# L2jALN - Lineage 2 Java Server Pack
+# L2Jaln
 
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)]()
-[![Status](https://img.shields.io/badge/status-Ativo-brightgreen)]()
-[![UTF-8](https://img.shields.io/badge/Encoding-UTF8-blue)]()
-[![Ant](https://img.shields.io/badge/Build-Ant-red)]()
-[![L2J-aln](https://img.shields.io/badge/Projeto-L2J--aln-brightgreen)]()
-
----
+L2Jaln é um servidor Lineage II baseado no aCis 382 (High Five), desenvolvido por Anderson Luis do Nascimento (A.L.N).
 
 ## Sobre o Projeto
 
-Sistema completo, moderno e otimizado para servidores privados de Lineage 2, desenvolvido em Java.
-Baseado em aCis, oferece estabilidade, performance e recursos avançados para administradores e jogadores.
+L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que oferece uma experiência de jogo completa e estável. O projeto inclui várias modificações personalizadas e melhorias em relação à base original.
 
-- **Logging Profissional**: Handlers customizados para logs de erro, item, chat, GM audit e mais.
-- **Scripts otimizados**: Compatíveis com Windows e Linux, já configurados para o novo padrão de pacotes.
-- **Build automatizado via Ant**: Geração de JAR completa e sem dependências externas.
-- **Compatibilidade UTF-8**: Suporte a caracteres especiais e banners personalizados.
-- **Estrutura modular**: Separação clara entre loginserver, gameserver, handlers, managers, eventos, scripts e sistemas de proteção.
+### Características Principais
 
----
+- Baseado em aCis 382 (High Five)
+- Protocolo 746
+- Sistema de proteção HWID
+- Sistema de criptografia Blowfish
+- Sistema de autenticação RSA
+- Sistema de logging profissional
+- Sistema de proteção contra flood
+- Sistema de proteção de IP
 
-## Tecnologias Utilizadas
+### Recursos Implementados
 
-- Java 17+
-- Apache Ant
-- UTF-8
-- Shell Script & Batch Script
-- Sistema de Logging Customizado
+- Sistema de Transformações
+- Sistema de Vitality
+- Sistema de Seven Signs
+- Sistema de Subclasses
+- Sistema de PvP
+- Sistema de Eventos
+- Sistema de Macros
+- Sistema de Pesca
+- Sistema de Clãs
+- Sistema de Alianças
+- Sistema de Academias
+- Sistema de Rankings
+- Sistema de Recomendações
 
----
+## Requisitos do Sistema
 
-## Como Compilar e Executar
+### Servidor
+- Java 8 ou superior
+- MySQL 5.7 ou superior
+- Mínimo 4GB RAM
+- Processador Dual Core ou superior
+- Sistema operacional: Windows/Linux
 
-1. Compile o projeto:
-   ```sh
-   ant dist-local
-   ```
+### Cliente
+- Cliente Lineage II High Five (Protocolo 746)
+- Suporte a UTF-8
+- DirectX 9.0c ou superior
 
-2. Inicie os servidores (em terminais separados):
-   ```sh
-   cd "Pack L2Jaln/login"
-   startLoginServer.bat
-   ```
-   ```sh
-   cd "Pack L2Jaln/game"
-   startGameServer.bat
-   ```
+## Instalação
 
-> **Dica:** Use `chcp 65001` no terminal para melhor suporte a caracteres especiais.
-
----
-
-## Repositório
-
-> **Privado** – uso exclusivo do autor
-> GitHub: [ALN2025](https://github.com/ALN2025)
-
----
-
-## Assinatura
-
-```
-Trabalho desenvolvido e pertencente a Anderson Luis do Nascimento  
-Dev ⩿ A.L.N/⪀
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/L2Jaln.git
 ```
 
----
+2. Configure o banco de dados:
+- Crie um banco de dados MySQL
+- Importe os arquivos SQL da pasta `sql/`
+- Configure as credenciais em `config/database.properties`
 
-L2jALN — O melhor da tecnologia Java para servidores Lineage 2! 
+3. Configure o servidor:
+- Copie os arquivos de template da pasta `config/template/`
+- Renomeie para `l2jaln.ini` e `loginserver.ini`
+- Ajuste as configurações conforme necessário
+
+4. Compile o projeto:
+```bash
+./gradlew build
+```
+
+5. Inicie o servidor:
+```bash
+# Login Server
+./startLoginServer.bat
+
+# Game Server
+./startGameServer.bat
+```
+
+## Documentação
+
+Para mais informações sobre a versão e configurações do servidor, consulte:
+- [Documentação da Versão](SERVER_VERSION.md)
+- [Guia de Configuração](docs/CONFIGURATION.md)
+- [Guia de Instalação](docs/INSTALLATION.md)
+
+## Suporte
+
+Para suporte técnico ou dúvidas sobre o projeto, entre em contato com:
+- Desenvolvedor: Anderson Luis do Nascimento (A.L.N)
+- Email: [Seu email]
+- Discord: [Seu Discord]
+
+## Licença
+
+Este projeto é distribuído sob a licença [GPL-3.0](LICENSE).
+
+## Agradecimentos
+
+- Equipe aCis pelo código fonte limpo
+- Comunidade L2J/Brasil pelos mods selecionados
+- Todos os contribuidores do projeto
+
+---
+*Desenvolvido por Anderson Luis do Nascimento (A.L.N)* 

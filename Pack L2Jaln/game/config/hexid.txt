@@ -1,0 +1,4 @@
+#the hexID to auth into login
+#Wed Jun 04 19:35:09 BRT 2025
+HexID=7158194e49b5f7d46f586d074016c43
+ServerID=1

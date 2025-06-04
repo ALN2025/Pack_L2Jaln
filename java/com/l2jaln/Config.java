@@ -57,7 +57,7 @@ public final class Config
 	public static final String LOGGING = "./config/logging.ini";
 	
 	/** Custom */
-	public static final String L2jaln_FILE = "./config/custom/L2_jMega.ini";
+	public static final String L2jaln_FILE = "./config/custom/L2_jaln.ini";
 	public static final String ENCHANT_FILE = "./config/custom/Enchant.ini";
 	public static final String PHYSICS_FILE = "./config/custom/balance/Physics.ini";
 	public static final String BALANCE_SKILLS_FILE = "./config/custom/balance/Skills_chance_modifier.ini";

@@ -1,18 +1,80 @@
-# Compiled class files
+# Arquivos compilados
 *.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
 
-# Log files
+# Arquivos de IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de log
 *.log
+logs/
+log/
 
-# Build artifacts
+# Arquivos de banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de configuração local
+config/l2jaln.ini
+config/loginserver.ini
+config/database.properties
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*~
+
+# Arquivos de backup
+*.bak
+*.backup
+backup/
+
+# Arquivos de cache
+.cache/
+*.cache
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
 build/
 dist/
-L2jaln_JAR/l2jaln.jar
+target/
+bin/
+out/
 
-# IDE specific files
-.idea/
-.vscode/
+# Arquivos de dependências
+lib/
+libs/
+dependencies/
 
-# OS specific files
-.DS_Store
-Thumbs.db 
+# Arquivos de dados do jogo
+data/
+datapack/
+gameserver/data/
+login/data/
+
+# Arquivos de configuração sensíveis
+*.properties
+*.xml
+!config/template/*.xml
+!config/template/*.properties
+
+# Outros
+*.pid
+*.port
+*.lock 
