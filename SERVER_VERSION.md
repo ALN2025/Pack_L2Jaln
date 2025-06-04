@@ -70,7 +70,7 @@ Esta documentação detalha a versão do servidor L2Jaln, baseado no aCis 382 (H
 ## Diferenças entre aCis 372 e aCis 382
 
 ### aCis 372 (Interlude)
-- Protocolo 730
+- Protocolo 730 (Interlude)
 - Mais leve
 - Menos recursos
 - Mais estável
@@ -80,7 +80,7 @@ Esta documentação detalha a versão do servidor L2Jaln, baseado no aCis 382 (H
 - Mais compatível com mods antigos
 
 ### aCis 382 (Interlude/High Five) - Nossa Versão
-- Protocolo 746
+- Protocolo 746 (High Five)
 - Mais recursos
 - Sistemas mais avançados
 - Melhor performance
