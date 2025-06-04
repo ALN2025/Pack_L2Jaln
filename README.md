@@ -6,11 +6,11 @@
 [![License](https://img.shields.io/badge/License-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0)
 [![Project](https://img.shields.io/badge/Project-L2J--aln-orange)](https://github.com/ALN2025/Pack_L2Jaln)
 
-L2Jaln é um servidor Lineage II baseado no aCis 382 (High Five), desenvolvido por Anderson Luis do Nascimento (A.L.N).
+L2Jaln é um servidor Lineage II baseado no aCis 382 (Int/HF), desenvolvido por Anderson Luis do Nascimento (A.L.N).
 
 ## ✨ Sobre o Projeto
 
-L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (High Five), que oferece uma experiência de jogo completa e estável. O projeto inclui várias modificações personalizadas e melhorias em relação à base original.
+L2Jaln é um servidor Lineage II moderno, baseado no aCis 382 (Int/HF), que oferece uma experiência de jogo completa e estável. O projeto inclui várias modificações personalizadas e melhorias em relação à base original.
 
 ### 🛡️ Características Principais
 
