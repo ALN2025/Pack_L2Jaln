@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="20017" type="Armor" name="Tattoo Mystic - Lv. 1">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="170" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+			<mul val='1.03' order='0x30' stat='mAtkSpd'/>
+		</for>
+	</item>
+	
+	<item id="20018" type="Armor" name="Tattoo Mystic - Lv. 2">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="170" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+			<mul val='1.05' order='0x30' stat='mAtkSpd'/>
+		</for>
+	</item>
+	
+	<item id="20019" type="Armor" name="Tattoo Mystic - Lv. 3">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="170" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+			<mul val='1.05' order='0x30' stat='mAtkSpd'/>
+			<mul val='1.03' order='0x30' stat='mAtk'/>
+		</for>
+	</item>
+	
+		<item id="20020" type="Armor" name="Tattoo Mystic - Lv. 4">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="170" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+			<mul val='1.05' order='0x30' stat='mAtkSpd'/>
+			<mul val='1.05' order='0x30' stat='mAtk'/>
+		</for>
+	</item>
+	
+		<item id="20021" type="Armor" name="Tattoo Mystic - Lv. 5">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="170" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+			<mul val='1.05' order='0x30' stat='mAtkSpd'/>
+			<mul val='1.05' order='0x30' stat='mAtk'/>
+			<mul val='1.05' order='0x30' stat='maxHp'/>
+			<mul val='1.05' order='0x30' stat='maxCp'/>
+		</for>
+	</item>
+
+</list>

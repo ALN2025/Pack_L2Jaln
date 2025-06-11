@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+	<npc id="20788" name="Rakul" title="">
+		<set name="level" val="80"/>
+		<set name="radius" val="30"/>
+		<set name="height" val="39"/>
+		<set name="rHand" val="3"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="2120"/>
+		<set name="sp" val="125"/>
+		<set name="hp" val="772.73802"/>
+		<set name="mp" val="402.6"/>
+		<set name="hpRegen" val="4.5"/>
+		<set name="mpRegen" val="1.8"/>
+		<set name="pAtk" val="476.36077"/>
+		<set name="pDef" val="656.55035"/>
+		<set name="mAtk" val="420.43155"/>
+		<set name="mDef" val="804.232986928232"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="18"/>
+		<set name="runSpd" val="74"/>
+		<set name="dropHerbGroup" val="1"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="3"/>
+			<skill id="4275" level="2"/>
+			<skill id="4278" level="1"/>
+			<skill id="4416" level="1"/>
+		</skills>
+	</npc>
+
+	<npc id="20789" name="Crokian" title="">
+		<set name="level" val="80"/>
+		<set name="radius" val="18"/>
+		<set name="height" val="29"/>
+		<set name="rHand" val="5128"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="1999"/>
+		<set name="sp" val="121"/>
+		<set name="hp" val="809.52639"/>
+		<set name="mp" val="417.6"/>
+		<set name="hpRegen" val="4.5"/>
+		<set name="mpRegen" val="1.8"/>
+		<set name="pAtk" val="476.36077"/>
+		<set name="pDef" val="656.55035"/>
+		<set name="mAtk" val="420.43155"/>
+		<set name="mDef" val="804.232986928232"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="18"/>
+		<set name="runSpd" val="74"/>
+		<set name="dropHerbGroup" val="1"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4030" level="2"/>
+			<skill id="4410" level="10"/>
+			<skill id="4411" level="10"/>
+			<skill id="4412" level="12"/>
+			<skill id="4413" level="12"/>
+			<skill id="4416" level="6"/>
+		</skills>
+	</npc>
+	<npc id="20790" name="Dailaon" title="">
+		<set name="level" val="80"/>
+		<set name="radius" val="20"/>
+		<set name="height" val="28"/>
+		<set name="rHand" val="5127"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="2567"/>
+		<set name="sp" val="158"/>
+		<set name="hp" val="847.31754"/>
+		<set name="mp" val="432.72"/>
+		<set name="hpRegen" val="4.5"/>
+		<set name="mpRegen" val="1.8"/>
+		<set name="pAtk" val="476.36077"/>
+		<set name="pDef" val="656.55035"/>
+		<set name="mAtk" val="420.43155"/>
+		<set name="mDef" val="804.232986928232"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="18"/>
+		<set name="runSpd" val="74"/>
+		<set name="dropHerbGroup" val="1"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4071" level="5"/>
+			<skill id="4228" level="3"/>
+			<skill id="4410" level="10"/>
+			<skill id="4411" level="10"/>
+			<skill id="4412" level="12"/>
+			<skill id="4413" level="12"/>
+			<skill id="4416" level="6"/>
+		</skills>
+	</npc>
+	<npc id="20791" name="Crokian Warrior" title="">
+		<set name="level" val="80"/>
+		<set name="radius" val="18"/>
+		<set name="height" val="29"/>
+		<set name="rHand" val="5128"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="4422"/>
+		<set name="sp" val="276"/>
+		<set name="hp" val="886.09975"/>
+		<set name="mp" val="447.96"/>
+		<set name="hpRegen" val="4.5"/>
+		<set name="mpRegen" val="1.8"/>
+		<set name="pAtk" val="476.36077"/>
+		<set name="pDef" val="656.55035"/>
+		<set name="mAtk" val="420.43155"/>
+		<set name="mDef" val="804.232986928232"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="18"/>
+		<set name="runSpd" val="74"/>
+		<set name="dropHerbGroup" val="1"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4074" level="2"/>
+			<skill id="4408" level="10"/>
+			<skill id="4410" level="12"/>
+			<skill id="4411" level="12"/>
+			<skill id="4412" level="10"/>
+			<skill id="4413" level="10"/>
+			<skill id="4416" level="6"/>
+		</skills>
+	</npc>
+	<npc id="20792" name="Farhite" title="">
+		<set name="level" val="80"/>
+		<set name="radius" val="16"/>
+		<set name="height" val="31"/>
+		<set name="rHand" val="5131"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="4114"/>
+		<set name="sp" val="262"/>
+		<set name="hp" val="925.85879"/>
+		<set name="mp" val="463.32"/>
+		<set name="hpRegen" val="4.5"/>
+		<set name="mpRegen" val="1.8"/>
+		<set name="pAtk" val="476.36077"/>
+		<set name="pDef" val="656.55035"/>
+		<set name="mAtk" val="420.43155"/>
+		<set name="mDef" val="804.232986928232"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="18"/>
+		<set name="runSpd" val="74"/>
+		<set name="dropHerbGroup" val="1"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4076" level="2"/>
+			<skill id="4151" level="3"/>
+			<skill id="4160" level="3"/>
+			<skill id="4408" level="10"/>
+			<skill id="4410" level="12"/>
+			<skill id="4411" level="12"/>
+			<skill id="4412" level="10"/>
+			<skill id="4413" level="10"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="6"/>
+		</skills>
+	</npc>
+	<npc id="20793" name="Nos" title="">
+		<set name="level" val="80"/>
+		<set name="radius" val="26"/>
+		<set name="height" val="42"/>
+		<set name="rHand" val="5130"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="4502"/>
+		<set name="sp" val="290"/>
+		<set name="hp" val="966.57792"/>
+		<set name="mp" val="478.8"/>
+		<set name="hpRegen" val="4.5"/>
+		<set name="mpRegen" val="1.8"/>
+		<set name="pAtk" val="476.36077"/>
+		<set name="pDef" val="656.55035"/>
+		<set name="mAtk" val="420.43155"/>
+		<set name="mDef" val="804.232986928232"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="18"/>
+		<set name="runSpd" val="74"/>
+		<set name="dropHerbGroup" val="1"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4085" level="1"/>
+			<skill id="4099" level="2"/>
+			<skill id="4408" level="10"/>
+			<skill id="4410" level="12"/>
+			<skill id="4411" level="12"/>
+			<skill id="4412" level="10"/>
+			<skill id="4413" level="10"/>
+			<skill id="4416" level="6"/>
+		</skills>
+	</npc>
+
+	<npc id="50053" idTemplate="31266" name="Tiger" title=" ">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>										
+		<set name="level" val="78"/>
+		<set name="radius" val="16"/>
+		<set name="height" val="17.2"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="6000.43142"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="7.5"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="582.81759"/>
+		<set name="pDef" val="500.89033"/>
+		<set name="mAtk" val="397.98887"/>
+		<set name="mDef" val="578.027644954078"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="50054" idTemplate="20130" name="Orc" title="">	
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
+		<set name="radius" val="10"/>
+		<set name="height" val="21"/>
+		<set name="rHand" val="156"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="5664"/>
+		<set name="sp" val="388"/>
+		<set name="hp" val="6000.43142"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="7.5"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="582.81759"/>
+		<set name="pDef" val="100.89033"/>
+		<set name="mAtk" val="397.98887"/>
+		<set name="mDef" val="178.027644954078"/>
+		<set name="crit" val="8"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="45"/>
+		<set name="runSpd" val="80"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="true"/>
+
+	</npc>
+	<npc id="50060" name="Barba Negra" title="Farm Zone">	
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>	
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="28"/>
+		<set name="rHand" val="232"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="5664"/>
+		<set name="sp" val="388"/>
+		<set name="hp" val="6000.43142"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="7.5"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="582.81759"/>
+		<set name="pDef" val="400.89033"/>
+		<set name="mAtk" val="397.98887"/>
+		<set name="mDef" val="578.027644954078"/>
+		<set name="crit" val="8"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="14"/>
+		<set name="runSpd" val="140"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+
+	</npc>
+	
+		<npc id="50061" idTemplate="20789" name="Krokian" title="FarmZone">
+	    <set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>	
+		<set name="level" val="80"/>
+		<set name="radius" val="18"/>
+		<set name="height" val="29"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="38679"/>
+		<set name="sp" val="4230"/>
+		<set name="hp" val="1002.89989"/>
+		<set name="mp" val="1607.4"/>
+		<set name="hpRegen" val="8.5"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="855.81387"/>
+		<set name="pDef" val="88.70061"/>
+		<set name="mAtk" val="584.40994"/>
+		<set name="mDef" val="421.515820894982"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="45"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4071" level="5"/>
+			<skill id="4157" level="8"/>
+			<skill id="4160" level="8"/>
+			<skill id="4274" level="1"/>
+			<skill id="4408" level="13"/>
+			<skill id="4412" level="15"/>
+			<skill id="4416" level="12"/>
+			<skill id="4437" level="4"/>
+			<skill id="4438" level="2"/>
+		</skills>
+	</npc>
+</list>

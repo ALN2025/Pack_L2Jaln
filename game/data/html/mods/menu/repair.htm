@@ -1,0 +1,45 @@
+<html><title>Repair Chararacter</title>
+<body>
+<table width=80>
+<tr>
+<td><button value="" action="bypass voiced_menu" width=35 height=23 back="L2UI_CH3.calculate2_bs_down" fore="L2UI_CH3.calculate2_bs"></td>
+<td> Menu </td>
+</tr>
+</table>
+<br>			
+               <center>
+                       <img src="L2UI_CH3.herotower_deco" width=256 height=32>
+                       <br>
+                       <font color="AAAAAA">Character Repair Function</font><br>
+                       <img src="l2ui.squaregray" width="300" height="1"><br>
+                       <br>
+                       <table width="300" cellpadding="5">
+                               <tr>
+                                       <td width="45" valign="top" align="center"><img src="icon.skill4376" width="32" height="32"></td>
+                                       <td valign="top">Use this tool, to fix problems with your other<br1>character. Like client crashing while loading.</td>
+                               </tr>
+                       </table>
+                       <br>
+                       <img src="l2ui.SquareGray" width="300" height="1">
+
+                       <table width="300" cellpadding="5">
+                               <tr>
+                                       <td valign="top"><font color="FF6600">Choose broken character name.</font><br1>
+                                               Choose character name, that you wish to<br1>attempt to fix. It will be moved to Floran<br1>
+                                               and removed shortcuts and keyboard<br1>configuration.</td>
+                               </tr>
+                               <tr>
+                                       <td align=center><combobox var="name" list="%acc_chars%" width="170" height="15"/></td>
+                               </tr>
+                       </table>
+  
+                       <img src="l2ui.SquareGray" width="300" height="1"><br>
+                       <a value="Repair now" action="bypass voiced_repair $name">Repair Now</a>
+					   
+					   <br>
+
+</center>
+<br>
+
+</body>
+</html>

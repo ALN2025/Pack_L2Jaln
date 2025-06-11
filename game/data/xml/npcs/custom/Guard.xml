@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="9999" idTemplate="30355" name="Guard" title="Anti-PK">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>		
+		<set name="level" val="80"/>
+		<set name="radius" val="7"/>
+		<set name="height" val="25"/>
+		<set name="rHand" val="277"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Guard"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="100000.11306877694"/>
+		<set name="mp" val="1674.8"/>
+		<set name="hpRegen" val="8.5"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="30000.537548504614"/>
+		<set name="pDef" val="50000.375"/>
+		<set name="mAtk" val="10000.751329129412"/>
+		<set name="mDef" val="50000.80341"/>
+		<set name="crit" val="8"/>
+		<set name="atkSpd" val="800"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="50"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="250"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="9999" ssRate="100" spsCount="9999" spsRate="100" aggro="1000" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="16"/>
+		</skills>
+	</npc>	
+</list>

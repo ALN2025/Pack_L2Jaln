@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="50011" idTemplate="31646" name="KingPvP" title="Top PvP Monument">
+			<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>		
+		<set name="level" val="70" />
+        <set name="radius" val="7"/>
+        <set name="height" val="24"/>
+		<set name="rHand" val="0" />
+		<set name="lHand" val="0" />
+		<set name="type" val="TopPvPMonument" />
+		<set name="exp" val="0" />
+		<set name="sp" val="0" />
+		<set name="hp" val="2444.46819" />
+		<set name="mp" val="1345.8" />
+		<set name="hpRegen" val="7.5" />
+		<set name="mpRegen" val="2.7" />
+		<set name="pAtk" val="688.86373" />
+		<set name="pDef" val="295.91597" />
+		<set name="mAtk" val="470.40463" />
+		<set name="mDef" val="216.53847" />
+		<set name="crit" val="4" />
+		<set name="atkSpd" val="253" />
+		<set name="str" val="40" />
+		<set name="int" val="21" />
+		<set name="dex" val="30" />
+		<set name="wit" val="20" />
+		<set name="con" val="43" />
+		<set name="men" val="20" />
+		<set name="corpseTime" val="7" />
+		<set name="walkSpd" val="50" />
+		<set name="runSpd" val="120" />
+		<set name="dropHerbGroup" val="0" />
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" />
+		<skills>
+			<skill id="4045" level="1" />
+			<skill id="4416" level="14" />
+		</skills>
+	</npc>
+	<npc id="50012" idTemplate="31646" name="KingPk" title="Top PK Monument">
+			<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>		
+		<set name="level" val="70" />
+        <set name="radius" val="7"/>
+        <set name="height" val="24"/>
+		<set name="rHand" val="0" />
+		<set name="lHand" val="0" />
+		<set name="type" val="TopPKMonument" />
+		<set name="exp" val="0" />
+		<set name="sp" val="0" />
+		<set name="hp" val="2444.46819" />
+		<set name="mp" val="1345.8" />
+		<set name="hpRegen" val="7.5" />
+		<set name="mpRegen" val="2.7" />
+		<set name="pAtk" val="688.86373" />
+		<set name="pDef" val="295.91597" />
+		<set name="mAtk" val="470.40463" />
+		<set name="mDef" val="216.53847" />
+		<set name="crit" val="4" />
+		<set name="atkSpd" val="253" />
+		<set name="str" val="40" />
+		<set name="int" val="21" />
+		<set name="dex" val="30" />
+		<set name="wit" val="20" />
+		<set name="con" val="43" />
+		<set name="men" val="20" />
+		<set name="corpseTime" val="7" />
+		<set name="walkSpd" val="50" />
+		<set name="runSpd" val="120" />
+		<set name="dropHerbGroup" val="0" />
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" />
+		<skills>
+			<skill id="4045" level="1" />
+			<skill id="4416" level="14" />
+		</skills>
+	</npc>
+
+	<npc id="563" idTemplate="31859" name="TeamVsTeam" title="">	
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>				
+		<set name="level" val="78"/>
+		<set name="radius" val="40"/>
+		<set name="height" val="80"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Folk"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="343"/>
+		<set name="hp" val="186915"/>
+		<set name="mp" val="1475"/>
+		<set name="hpRegen" val="158"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="1395"/>
+		<set name="pDef" val="5108"/>
+		<set name="mAtk" val="371"/>
+		<set name="mDef" val="1686"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="170"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="2000" clan="archangel_clan" clanRange="300" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="8"/>
+		</skills>
+	</npc>
+	<npc id="56653" idTemplate="20134" name="TeamVsTeam" title="">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>									
+		<set name="level" val="78"/>
+		<set name="radius" val="25"/>
+		<set name="height" val="65"/>
+		<set name="rHand" val="68"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Folk"/>
+		<set name="exp" val="5112"/>
+		<set name="sp" val="437"/>
+		<set name="hp" val="100041"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="277.057601433902"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="3631.01519545517"/>
+		<set name="pDef" val="1185.67099"/>
+		<set name="mAtk" val="2425.23781026179"/>
+		<set name="mDef" val="700.92"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="40"/>
+		<set name="runSpd" val="174"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="100" ssRate="10" spsCount="100" spsRate="5" aggro="0" canMove="true" seedable="true"/>
+	</npc>
+	<npc id="564" idTemplate="32027" name="TeamVsTeam" title="">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>				
+		<set name="level" val="78"/>
+		<set name="radius" val="30"/>
+		<set name="height" val="31"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Folk"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="2974.35686398316"/>
+		<set name="mp" val="1607.4"/>
+		<set name="hpRegen" val="8.5"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="890.50085998804"/>
+		<set name="pDef" val="332.70061"/>
+		<set name="mAtk" val="608.096657928153"/>
+		<set name="mDef" val="243.45587"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="19"/>
+		</skills>
+	</npc>	
+	<npc id="9996" idTemplate="25073" name="Tournament" title="Battle Tournament">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>											
+		<set name="level" val="78"/>
+		<set name="radius" val="50"/>
+		<set name="height" val="180"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Tournament"/>
+		<set name="exp" val="1381165"/>
+		<set name="sp" val="185853"/>
+		<set name="hp" val="100041"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="277.057601433902"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="3631.01519545517"/>
+		<set name="pDef" val="1185.67099"/>
+		<set name="mAtk" val="2425.23781026179"/>
+		<set name="mDef" val="700.92"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="10"/>
+		<set name="walkSpd" val="100"/>
+		<set name="runSpd" val="170"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="565" idTemplate="31859" name="CaptureTheFlag" title="">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>				
+		<set name="level" val="78"/>
+		<set name="radius" val="40"/>
+		<set name="height" val="80"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Folk"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="2974.35686398316"/>
+		<set name="mp" val="1607.4"/>
+		<set name="hpRegen" val="8.5"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="890.50085998804"/>
+		<set name="pDef" val="332.70061"/>
+		<set name="mAtk" val="608.096657928153"/>
+		<set name="mDef" val="243.45587"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="19"/>
+		</skills>
+	</npc>	
+	
+		<npc id="566" idTemplate="31859" name="PvP" title="">	
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>				
+		<set name="level" val="78"/>
+		<set name="radius" val="40"/>
+		<set name="height" val="80"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Folk"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="343"/>
+		<set name="hp" val="186915"/>
+		<set name="mp" val="1475"/>
+		<set name="hpRegen" val="158"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="1395"/>
+		<set name="pDef" val="5108"/>
+		<set name="mAtk" val="371"/>
+		<set name="mDef" val="1686"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="170"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="2000" clan="archangel_clan" clanRange="300" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="8"/>
+		</skills>
+	</npc>
+
+</list>

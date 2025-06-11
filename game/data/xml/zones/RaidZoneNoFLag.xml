@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+		<!-- Barakiel 100% -->	
+	<zone type='RaidZoneNoFlag' shape='Cylinder' minZ='-2800' maxZ='-2600' rad='2500'>	
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="91496" Y="-86088" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>	
+
+</list>

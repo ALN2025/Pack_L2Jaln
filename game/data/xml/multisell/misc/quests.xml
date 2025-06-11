@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Custom Shop -->
+
+<list>
+  <!-- Quest Frintezaz -->
+  <item id="28">
+    <production id="8073" count="1"/>
+  </item>
+  
+  <!-- Floating Stone -->
+  <item id="29">
+    <production id="7267" count="1"/>
+  </item>
+
+  <!-- Portal Stone -->
+  <item id="30">
+    <production id="3865" count="1"/>
+  </item>
+  
+  <!-- Blooded Fabric -->
+  <item id="31">
+    <production id="4295" count="1"/>
+  </item>
+  
+</list>

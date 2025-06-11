@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list maintainEnchantment="true">
+
+  <!-- Giant Codex -->
+  <item id="1">
+    <ingredient id="9503" count="10"/>
+    <production id="6622" count="35"/>
+  </item>
+
+  <!-- Life Stone Gold -->
+  <item id="2">
+    <ingredient id="9503" count="10"/>
+    <production id="8762" count="30"/>
+  </item>
+  
+    <!-- Life Stone Gold -->
+  <item id="3">
+    <ingredient id="9503" count="10"/>
+    <production id="8752" count="50"/>
+  </item>
+
+  <!-- Book -->
+  <item id="4">
+    <ingredient id="9503" count="15"/>
+    <production id="8618" count="1"/>
+	<production id="8621" count="1"/>
+	<production id="8620" count="1"/>
+	<production id="8619" count="1"/>
+  </item>
+    
+	<!-- Elixir CP/HP -->
+  <item id="5">
+	<production id="8639" count="500"/>
+	<production id="8627" count="500"/>
+	<ingredient id="9503" count="10"/>
+  </item>
+
+   <!-- Nobless -->
+  <item id="7">
+    <production id="9504" count="1"/>
+	<ingredient id="9503" count="10"/>
+  </item>
+
+	<!-- Vip 1 -->
+  <item id="8">
+    <production id="9525" count="1"/>
+	<ingredient id="9503" count="40"/>
+  </item>
+  
+  <!-- Vip 2 -->
+  <item id="9">
+    <production id="9526" count="1"/>
+	<ingredient id="9503" count="90"/>
+  </item>
+  
+</list>

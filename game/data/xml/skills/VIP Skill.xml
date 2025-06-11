@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="8001" levels="1" name="VIP Skill">
+		<set name="mpConsume" val="36"/>
+		<set name="magicLvl" val="78" />
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="CONT"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<effect count="0x7fffffff" name="VipBuff" time="3" val="0">
+			<add order="0x40" stat="pAtk" val="200" />
+			<add order="0x40" stat="mAtk" val="200" />
+			<add order="0x40" stat="pDef" val="100" />
+			<add order="0x40" stat="mDef" val="100" />
+			<add order="0x40" stat="maxHp" val="500"/> 
+			<add order="0x40" stat="maxCp" val="200"/> 			
+ 			</effect>
+		</for>
+	</skill>
+</list>

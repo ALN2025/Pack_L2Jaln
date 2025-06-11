@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- PvP Ketra  -->
+	<zone type='NoMonsterZone' shape='Cylinder' minZ='-10000' maxZ='10000' rad='4500'>
+		<node X="128360" Y="-73112" />
+	</zone>
+	<!-- PvP Ilha -->
+	<zone type='NoMonsterZone' shape='Cylinder' minZ='-10000' maxZ='10000' rad='4500'>
+		<node X="9160" Y="-23576" />
+	</zone>	
+	
+	<!-- PvP Imperial -->
+	<zone type='NoMonsterZone' shape='Cylinder' minZ='-2800' maxZ='-2500' rad='3000'>
+		<node X="181368" Y="-78696" />
+	</zone>	 
+		<!-- PvP Aligator -->
+	<zone type='NoMonsterZone' shape='Cylinder' minZ='-10000' maxZ='10000' rad='3000'>
+		<node X="114056" Y="192296" />
+	</zone>	
+	
+</list>

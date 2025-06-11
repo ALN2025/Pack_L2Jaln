@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+       <!-- 4c4c4c -->
+       <template pkAmount="50" titleColor="5000268"/>
+	   <!-- 80FF80 -->	   
+       <template pkAmount="100" titleColor="7396243"/>
+       <!-- ff66ff -->	   
+       <template pkAmount="200" titleColor="16738047"/>
+	   <!-- 0000ff -->	   
+       <template pkAmount="500" titleColor="16711680"/>
+	   <!-- 00ffff -->	   
+       <template pkAmount="1000" titleColor="16776960"/>
+	   <!-- ffff00 -->	   
+       <template pkAmount="1500" titleColor="65535"/>
+		<!-- 39168 -->	      
+       <template pkAmount="2000" titleColor="39168"/>
+		<!-- 000000 -->	      
+       <template pkAmount="3000" titleColor="000000"/>
+</list>

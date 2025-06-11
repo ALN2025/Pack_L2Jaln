@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Special Trader -->
+
+<list>
+
+  <!-- Giant Codex -->
+  <item id="1">
+    <ingredient id="9501" count="2"/>
+    <production id="6622" count="1"/>
+  </item>
+
+  <!-- Life Stone Black -->
+  <item id="2">
+    <ingredient id="9501" count="2"/>
+    <production id="8742" count="1"/>
+  </item>
+
+  <!-- Life Stone Silver -->
+  <item id="3">
+    <ingredient id="9501" count="2"/>
+    <production id="8752" count="1"/>
+  </item>
+
+  <!-- Life Stone Gold -->
+  <item id="4">
+    <ingredient id="9501" count="2"/>
+    <production id="8762" count="1"/>
+  </item>
+
+  <!-- Clan Hall Blessed Scroll of Scape -->
+  <item id="5">
+    <ingredient id="9501" count="2"/>
+    <production id="5858" count="3"/>
+  </item>
+
+  <!-- Greater CP -->
+  <item id="6">
+    <ingredient id="9501" count="20"/>
+    <production id="5592" count="5000"/>
+  </item>
+      
+  <!-- Formal Wear -->
+  <item id="7">
+    <ingredient id="9501" count="50"/>
+    <production id="6408" count="1"/>
+  </item>
+  
+  <!-- Dragon Bugle Wind -->
+  <item id="8">
+    <ingredient id="9501" count="100"/>
+    <production id="4422" count="1"/>
+  </item>
+  
+  <!-- Dragon Bugle Star -->
+  <item id="9">
+    <ingredient id="9501" count="100"/>
+    <production id="4423" count="1"/>
+  </item>
+  
+   <!-- Dragon Bugle Dusk -->
+  <item id="10">
+    <ingredient id="9501" count="100"/>
+    <production id="4424" count="1"/>
+  </item>
+  
+   <!-- Nobless    -->
+  <item id="11">
+    <ingredient id="9501" count="100"/>
+    <production id="9504" count="1"/>
+  </item>
+  
+  <!-- Escape Blessed -->
+  <item id="35">
+    <ingredient id="9501" count="10"/>
+    <production id="1538" count="3"/>
+  </item>
+  
+  <!-- Escape Blessed -->
+  <item id="36">
+    <ingredient id="9501" count="10"/>
+    <production id="3936" count="3"/>
+  </item> 
+
+  
+ <!-- <item id="25">
+    <ingredient id="9501" count="10"/>
+	<ingredient id="14018" count="10000"/>
+    <ingredient id="57" count="500000000"/>
+    <production id="10313" count="1"/>
+  </item>
+  -->
+  <!--
+  <item id="26">
+    <ingredient id="9501" count="10"/>
+	<ingredient id="14018" count="10000"/>
+    <ingredient id="57" count="500000000"/>
+    <production id="10128" count="1"/>
+  </item> -->
+
+  <!-- Staff of Evil Spirits - Bodily Blessing -->
+  <item id="26">
+    <ingredient id="9501" count="20"/>
+    <production id="4901" count="1" enchant="4"/>
+  </item>
+
+  <!-- Staff of Evil Spirits - Magic Focus -->
+  <item id="27">
+    <ingredient id="9501" count="20"/>
+    <production id="4900" count="1" enchant="4"/>
+  </item>
+
+  <!-- Sprite's Staff [Mental Shield] -->
+  <item id="28">
+    <ingredient id="9501" count="20"/>
+    <production id="4898" count="1" enchant="4"/>
+  </item>
+
+  <!-- Sprite's Staff [Magic Regeneration] -->
+  <item id="29">
+    <ingredient id="9501" count="20"/>
+    <production id="4897" count="1" enchant="4"/>
+  </item>
+
+  <!-- Soul Separator - Rsk. Haste
+  <item id="30">
+    <ingredient id="9501" count="5"/>
+    <production id="5619" count="1"/>
+  </item>  -->
+
+    <!-- .. -->
+  <item id="30">
+  <ingredient id="9501" count="20"/>
+    <production id="9505" count="1"/>
+  </item>
+  
+      <!-- golden  -->
+  <item id="31">
+    <ingredient id="9501" count="15"/>
+    <production id="9506" count="1"/>
+  </item>
+  
+    <!-- golden -->
+  <item id="32">
+    <ingredient id="9501" count="10"/>
+    <production id="9507" count="1"/>
+  </item>
+  
+                  <!-- Pk Reset -->
+  <item id="33">
+    <ingredient id="9501" count="200"/>
+    <production id="9536" count="1"/>
+  </item>
+
+              <!-- Infinity Stone -->
+  <item id="34">
+    <ingredient id="9501" count="200"/>
+    <production id="9537" count="1"/>
+  </item> 
+  
+</list>

@@ -1,0 +1,8 @@
+Data [10/06/2025 19:30:58] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Draconic Leather Armor >> Obj_id: [268486198]
+Data [10/06/2025 19:30:58] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Draconic Leather Helmet >> Obj_id: [268486201]
+Data [10/06/2025 19:30:58] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Draconic Leather Boots >> Obj_id: [268486200]
+Data [10/06/2025 19:30:58] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Draconic Leather Gloves >> Obj_id: [268486199]
+Data [10/06/2025 19:33:27] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Necklace of Valakas >> Obj_id: [268486230]
+Data [10/06/2025 19:33:27] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Ring of Baium >> Obj_id: [268486232]
+Data [10/06/2025 19:33:27] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Zaken's Earring >> Obj_id: [268486233]
+Data [10/06/2025 19:33:27] >> Player [aln] >> Trade com  [Noob] >> Item: [1] Earring of Antharas >> Obj_id: [268486231]

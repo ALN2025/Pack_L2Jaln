@@ -1,0 +1,37 @@
+<html>
+<title>Report Manager</title>
+ <br>
+<table width=80>
+<tr>
+<td><button value="" action="bypass voiced_menu" width=35 height=23 back="L2UI_CH3.calculate2_bs_down" fore="L2UI_CH3.calculate2_bs"></td>
+<td> Menu </td>
+</tr>
+</table>
+<body>
+<br><br>
+<center>
+<font color="LEVEL">Hello</font> %player%.
+<br><br>
+
+<table height=10 width=290>
+<tr><td align=left><font color="00ffe6"><font color="ff0000">EN</font>: You can only make a report, until the admin sees and deletes it, so you can report again.</font></td></tr>
+</table>
+<center><img src="L2UI.SquareGray" width=300 height=1></center>
+<table height=10width=290>
+<tr><td align=left><font color="00ffe6"><font color="ff0000">PT</font>: Voce so pode fazer um report, ate o admin ver e excluir, para voce reportar novamente.</font></td></tr>
+</table>
+
+<br>
+
+<table width=250>
+<tr>
+<td><font color="LEVEL">Select Report Type:</font></td>
+<td><combobox width=105 var=type list=General;Fatal;Misuse;Balance;Other></td>
+</tr>
+</table>
+<br><br>
+<multiedit var="msg" width=295 height=100><br>
+<a value="SEND" action="bypass voiced_send_report $type $msg">Send Message</a></td>
+<br>
+</center>
+</body></html>

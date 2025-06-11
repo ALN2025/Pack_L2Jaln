@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+	<npc id="29067" name="Antharas" title="">
+		<set name="level" val="79"/>
+		<set name="radius" val="300"/>
+		<set name="height" val="300"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="GrandBoss"/>
+		<set name="exp" val="262720918"/>
+		<set name="sp" val="29116376"/>
+		<set name="hp" val="7500000"/>
+		<set name="mp" val="18000"/>
+		<set name="hpRegen" val="1100"/>
+		<set name="mpRegen" val="99"/>
+		<set name="pAtk" val="2900"/>
+		<set name="pDef" val="2540"/>
+		<set name="mAtk" val="1000"/>
+		<set name="mDef" val="825"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="14"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="186"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4122" level="1"/>
+			<skill id="4416" level="10"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="6656" min="1" max="1" chance="1000000"/>
+			</category>
+			
+			<category id="2">
+				<drop itemid="6577" min="5" max="10" chance="1000000"/>
+			</category>
+			<category id="3">
+				<drop itemid="6577" min="5" max="10" chance="1000000"/>
+			</category>
+			<category id="4">
+				<drop itemid="9506" min="5" max="10" chance="1000000"/>
+			</category>
+	
+			<category id="5">
+				<drop itemid="9507" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="6">
+				<drop itemid="9507" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="7">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="8">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="9">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="10">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			
+
+			<category id="11">
+				<drop itemid="6577" min="5" max="10" chance="1000000"/>
+			</category>
+			
+            <category id="12">
+				<drop itemid="6577" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="13">
+				<drop itemid="6577" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="14">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="15">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			<category id="16">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="17">
+				<drop itemid="6578" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="18">
+				<drop itemid="6572" min="5" max="10" chance="1000000"/>
+			</category>
+			
+			<category id="19">
+				<drop itemid="9500" min="2000" max="5000" chance="1000000"/>
+			</category>
+			<category id="20">
+				<drop itemid="9501" min="30" max="40" chance="1000000"/>
+			</category>
+			<category id="21">
+					<drop itemid="57" min="500000" max="1000000" chance="1000000"/>
+			</category>
+			<category id="22">
+				<drop itemid="9500" min="2000" max="5000" chance="1000000"/>
+			</category>
+
+
+		</drops>		
+		</npc>
+
+</list>

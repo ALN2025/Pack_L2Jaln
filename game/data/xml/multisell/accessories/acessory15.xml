@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+<item id="154">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16000" count="1" enchant="0"/>
+</item>
+
+<item id="155">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16001" count="1" enchant="0"/>
+</item>
+
+<item id="156">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16002" count="1" enchant="0"/>
+</item>
+
+<item id="157">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16003" count="1" enchant="0"/>
+</item>
+
+<item id="158">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16004" count="1" enchant="0"/>
+</item>
+
+<item id="159">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16005" count="1" enchant="0"/>
+</item>
+
+<item id="160">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16006" count="1" enchant="0"/>
+</item>
+
+<item id="161">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16007" count="1" enchant="0"/>
+</item>
+
+<item id="162">
+
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16008" count="1" enchant="0"/>
+</item>
+
+
+<item id="164">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16010" count="1" enchant="0"/>
+</item>
+
+
+<item id="167">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16013" count="1" enchant="0"/>
+</item>
+
+
+
+<item id="169">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16016" count="1" enchant="0"/>
+</item>
+
+<item id="170">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16017" count="1" enchant="0"/>
+</item>
+
+<item id="171">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16018" count="1" enchant="0"/>
+</item>
+
+<item id="172">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16019" count="1" enchant="0"/>
+</item>
+
+<item id="173">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16020" count="1" enchant="0"/>
+</item>
+
+<item id="174">
+<ingredient id="9500" count="50000"/>
+<ingredient id="9501" count="100"/>
+<production id="16021" count="1" enchant="0"/>
+</item>
+
+
+</list>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Special Trader -->
+
+<list maintainEnchantment="true">
+	
+	<!-- Frintezza Necklace -->
+  <item id="1">
+    <production id="8191" count="1" enchant="10"/>
+		<ingredient id="9502" count="2000"/>
+  </item>
+	
+  <!-- Queen Ant -->
+  <item id="2">
+    <production id="6660" count="1" enchant="10"/>
+	<ingredient id="9502" count="2000"/>
+  </item>
+  
+  <!-- Zaken Earring -->
+  <item id="4">
+    <production id="6659" count="1" enchant="10"/>
+	<ingredient id="9502" count="2000"/>
+  </item>
+  
+  <!-- Ring of Baium -->
+  <item id="3">
+    <production id="6658" count="1" enchant="10"/>
+		<ingredient id="9502" count="2000"/>
+  </item>
+
+  <!-- Antharas Earring -->
+  <item id="5">
+    <production id="6656" count="1" enchant="10"/>
+		<ingredient id="9502" count="2000"/>
+  </item>
+
+  
+  <!-- Valakas Necklace -->
+  <item id="6">
+    <production id="6657" count="1" enchant="10"/>
+		<ingredient id="9502" count="2000"/>
+  </item>
+  
+    <!-- Earring of Orfen -->
+  <item id="7">
+    <production id="6661" count="1" enchant="10"/>
+		<ingredient id="9502" count="2000"/>
+  </item>
+  
+  <!-- Ring of Core -->
+  <item id="8">
+    <production id="6662" count="1" enchant="10"/>
+		<ingredient id="9502" count="2000"/>
+  </item>
+  
+              <!-- Clan Name -->
+  <item id="23">
+    <ingredient id="9502" count="7000"/>
+    <production id="9534" count="1"/>
+  </item>
+  
+              <!-- Ally Name -->
+  <item id="24">
+     <ingredient id="9502" count="7000"/>
+    <production id="9542" count="1"/>
+  </item>
+  
+                <!-- Pk Reset -->
+  <item id="25">
+     <ingredient id="9502" count="1000"/>
+    <production id="9536" count="1"/>
+  </item>
+  
+  
+              <!-- Infinity Stone -->
+  <item id="26">
+    <ingredient id="9502" count="1000"/>
+    <production id="9537" count="1"/>
+  </item> 
+  
+      <!-- golden  -->
+  <item id="27">
+	<ingredient id="9502" count="50"/>
+    <production id="9506" count="1"/>
+  </item>
+  
+    <!-- golden -->
+  <item id="28">
+	<ingredient id="9502" count="40"/>
+    <production id="9507" count="1"/>
+  </item>
+  
+  <item id="154">
+<ingredient id="9502" count="5000"/>
+<production id="8922" count="1" enchant="0"/>
+</item>
+
+<item id="155">
+<ingredient id="9502" count="5000"/>
+<production id="8919" count="1" enchant="0"/>
+</item>
+
+<item id="156">
+<ingredient id="9502" count="5000"/>
+<production id="8565" count="1" enchant="0"/>
+</item>
+
+<item id="157">
+<ingredient id="9502" count="5000"/>
+<production id="7837" count="1" enchant="0"/>
+</item>
+
+<item id="158">
+<ingredient id="9502" count="5000"/>
+<production id="7839" count="1" enchant="0"/>
+</item>
+
+<item id="159">
+<ingredient id="9502" count="5000"/>
+<production id="8185" count="1" enchant="0"/>
+</item>
+
+<item id="160">
+<ingredient id="9502" count="5000"/>
+<production id="8186" count="1" enchant="0"/>
+</item>
+
+<item id="161">
+<ingredient id="9502" count="5000"/>
+<production id="8187" count="1" enchant="0"/>
+</item>
+
+<item id="162">
+<ingredient id="9502" count="5000"/>
+<production id="8552" count="1" enchant="0"/>
+</item>
+
+<item id="163">
+<ingredient id="9502" count="5000"/>
+<production id="8562" count="1" enchant="0"/>
+</item>
+
+<item id="164">
+<ingredient id="9502" count="5000"/>
+<production id="8563" count="1" enchant="0"/>
+</item>
+
+<item id="165">
+<ingredient id="9502" count="5000"/>
+<production id="8564" count="1" enchant="0"/>
+</item>
+
+<item id="166">
+<ingredient id="9502" count="5000"/>
+<production id="9138" count="1" enchant="0"/>
+</item>
+
+  <item id="33">
+    <production id="14000" count="1" enchant="0"/>
+	<ingredient id="9502" count="100"/>
+  </item>
+  
+  <item id="34">
+    <production id="14001" count="1" enchant="0"/>
+	<ingredient id="9502" count="100"/>
+  </item>
+  
+  <item id="35">
+    <production id="14002" count="1" enchant="0"/>
+	<ingredient id="9502" count="100"/>
+  </item>
+  
+  <item id="36">
+    <production id="14003" count="1" enchant="0"/>
+	<ingredient id="9502" count="100"/>
+  </item>
+ 
+</list>

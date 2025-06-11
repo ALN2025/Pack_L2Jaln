@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Olympiad Stadium Zones -->
+	<zone type="TournamentZone" shape="NPoly" minZ="-3100" maxZ="-2825"><!-- olympiad_stadium_01 -->
+		<node X="-21680" Y="-20140" />
+		<node X="-21965" Y="-20500" />
+		<node X="-21965" Y="-21530" />
+		<node X="-21680" Y="-21870" />
+		<node X="-19953" Y="-21870" />
+		<node X="-19670" Y="-21530" />
+		<node X="-19670" Y="-20500" />
+		<node X="-19953" Y="-20142" />
+
+	</zone>
+</list>

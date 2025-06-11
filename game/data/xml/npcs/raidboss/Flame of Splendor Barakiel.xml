@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="25325" name="Flame of Splendor Barakiel" title="Raid Boss">
+		<set name="level" val="80"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="30"/>
+		<set name="rHand" val="6717"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="RaidBoss"/>
+		<set name="exp" val="3206477"/>
+		<set name="sp" val="835990"/>
+		<set name="hp" val="689061.053710865"/>
+		<set name="mp" val="1674.8"/>
+		<set name="hpRegen" val="92.3387631310317"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="1445.33274686674"/>
+		<set name="pDef" val="1185.643995"/>
+		<set name="mAtk" val="1426.64874503057"/>
+		<set name="mDef" val="578.3992"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="190"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4188" level="7"/>
+			<skill id="4190" level="7"/>
+			<skill id="4192" level="7"/>
+			<skill id="4416" level="8"/>
+			<skill id="4494" level="1"/>
+			<skill id="4913" level="1"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="8619" min="1" max="1" chance="1000000"/>
+			</category>
+		</drops>
+		<minions>
+			<minion id="25326" min="1" max="1"/>
+			<minion id="25327" min="4" max="4"/>
+		</minions>
+	</npc>
+	
+	
+		<npc id="25326" name="Barakiel's Disciple" title="Raid Fighter">
+		<set name="level" val="76"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="38.5"/>
+		<set name="rHand" val="6718"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="2260"/>
+		<set name="hp" val="58887.3167955979"/>
+		<set name="mp" val="1314"/>
+		<set name="hpRegen" val="116.468584127042"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="8357.00898150475"/>
+		<set name="pDef" val="436.725945"/>
+		<set name="mAtk" val="11094.0736231147"/>
+		<set name="mDef" val="426.1"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="190"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="8"/>
+			<skill id="4724" level="6"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="1344" min="20" max="60" chance="898500"/>
+			</category>
+		</drops>
+	</npc>
+	<npc id="25327" name="Barakiel's Acolyte" title="Raid Fighter">
+		<set name="level" val="76"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="38.5"/>
+		<set name="rHand" val="6718"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="2260"/>
+		<set name="hp" val="29443.6583977989"/>
+		<set name="mp" val="1314"/>
+		<set name="hpRegen" val="116.468584127042"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="4178.50449075237"/>
+		<set name="pDef" val="436.725945"/>
+		<set name="mAtk" val="2773.51840577869"/>
+		<set name="mDef" val="426.1"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="190"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="8"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="1344" min="20" max="60" chance="898500"/>
+			</category>
+		</drops>
+	</npc>
+</list>

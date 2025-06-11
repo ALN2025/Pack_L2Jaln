@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="9900" levels="1" name="Town">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="runSpd" val="30" />
+		</for>
+	</skill>
+	<skill id="9901" levels="1" name="Archmage - StormCream - Mystic Muse">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="runSpd" val="50" />
+		    <add order="0x40" stat="mAtk" val="1900" />
+			<add order="0x40" stat="mAtkSpd" val="1300" />
+		</for>
+	</skill>	
+	
+		<skill id="9902" levels="1" name="acher">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="runSpd" val="50" />
+			<add order="0x40" stat="maxHp" val="9400" />
+			<add order="0x40" stat="maxCp" val="1700" />
+            <add order="0x40" stat="accCombat" val="30" />
+		</for>
+	</skill>
+</list>

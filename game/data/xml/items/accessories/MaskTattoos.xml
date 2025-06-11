@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>	
+	<!-- Adicionar +250 em Defesas, e resistencia a todos os elementos -->
+	<item id="9548" type="Armor" name="Salem Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="0" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />		
+		<!-- <set name="item_skill" val="3599-1" />-->
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add order="0x40" stat="pDef" val="250" />
+			<add order="0x40" stat="mDef" val="250" />
+			<mul order="0x30" stat="darkRes" val="30" />
+			<mul order="0x30" stat="holyRes" val="30" />
+			<mul order="0x30" stat="waterRes" val="20" />
+			<mul order="0x30" stat="fireRes" val="20" />
+			<mul order="0x30" stat="windRes" val="20" />
+			<mul order="0x30" stat="earthRes" val="20" />
+		</for>
+	</item>
+	<!-- Adicionar +250 em Defesas, e resistencia a cancel e paralise -->
+	<item id="9549" type="Armor" name="Bloody Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="0" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add order="0x40" stat="pDef" val="250" />
+			<add order="0x40" stat="mDef" val="250" />
+			<mul order="0x30" stat="cancelVuln" val="30" />
+			<mul order="0x30" stat="debuffVuln" val="20" />
+		</for>
+	</item>
+	<!-- Adicionar +250 em Defesas, e resistencia a Stun -->
+	<item id="9550" type="Armor" name="Ogre Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="0" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add order="0x40" stat="pDef" val="250" />
+			<add order="0x40" stat="mDef" val="250" />
+			<mul order="0x30" stat="stunVuln" val="30" />
+			<mul order="0x30" stat="pReuse" val="0.85" />
+			<mul order="0x30" stat="mReuse" val="0.85" />
+		</for>
+	</item>
+
+	<item id="9551" type="Armor" name="Tattoo of Monk - level 1">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.05" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.03" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.03" />
+		</for>
+	</item>
+
+	<item id="9552" type="Armor" name="Tattoo of Mage - level 1">
+		<set name="default_action" val="equip" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.03" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.01" />
+		</for>
+	</item>
+
+	<item id="9553" type="Armor" name="Tattoo of Runner - Level 1">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" val="1.02" />
+		</for>
+	</item>
+
+	<item id="9554" type="Armor" name="Tattoo of Monk - level 2">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.07" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+		</for>
+	</item>
+
+	<item id="9555" type="Armor" name="Tattoo of Mage - level 2">
+		<set name="default_action" val="equip" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.05" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.03" />
+		</for>
+	</item>
+
+	<item id="9556" type="Armor" name="Tattoo of Runner - Level 2">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" val="1.04" />
+		</for>
+	</item>
+
+	<item id="9557" type="Armor" name="Tattoo of Monk - level 3">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.09" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.07" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.09" />
+		</for>
+	</item>
+
+	<item id="9558" type="Armor" name="Tattoo of Mage - level 3">
+		<set name="default_action" val="equip" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.07" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.07" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.05" />
+		</for>
+	</item>
+
+	<item id="9559" type="Armor" name="Tattoo of Runner - Level 3">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" val="1.06" />
+		</for>
+	</item>
+
+	<item id="9560" type="Armor" name="Tattoo of Monk - level 4">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.11" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.09" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.09" />
+		</for>
+	</item>
+
+	<item id="9561" type="Armor" name="Tattoo of Mage - level 4">
+		<set name="default_action" val="equip" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.09" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.07" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.07" />
+		</for>
+	</item>
+
+	<item id="9562" type="Armor" name="Tattoo of Runner - Level 4">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" val="1.08" />
+		</for>
+	</item>
+
+	<item id="9563" type="Armor" name="Tattoo of Monk - level 5">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.13" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.11" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.11" />
+		</for>
+	</item>
+
+	<item id="9564" type="Armor" name="Tattoo of Mage - level 5">
+		<set name="default_action" val="equip" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.11" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+		</for>
+	</item>
+
+	<item id="9565" type="Armor" name="Tattoo of Runner - Level 5">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" val="1.12" />
+		</for>
+	</item>
+
+	<item id="9566" type="Armor" name="Tattoo of Divine Monk - level 6">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtk" val="1.15"/> <!-- P. Atk. +2.7% -->
+			<mul order="0x30" stat="pAtkSpd" val="1.08" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.20" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.20" />
+		</for>
+	</item>
+
+	<item id="9567" type="Armor" name="Tattoo of Divine Mage - level 6">
+		<set name="default_action" val="equip" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtk" val="1.10"/> <!-- P. Atk. +2.7% -->
+			<mul order="0x30" stat="mAtkSpd" val="1.06" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.20" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.20" />
+		</for>
+	</item>
+
+	<item id="9568" type="Armor" name="Tattoo of Divine Runner - Level 6">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" val="1.12" />
+			<add order="0x40" stat="rEvas" val="5"/>
+		</for>
+	</item>
+
+<!-- Criando novas linhas -->
+
+</list>

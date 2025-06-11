@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<zone type="ZakenDoorZone" shape="NPoly" minZ='-3500' maxZ='-2830'>
+		<node X="52384" Y="219178" />
+        <node X="52386" Y="219028" />
+        <node X="52732" Y="219044" />
+        <node X="52726" Y="219167" />
+	</zone>
+</list>

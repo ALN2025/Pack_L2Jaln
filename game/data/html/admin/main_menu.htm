@@ -1,0 +1,111 @@
+<html><title>Main menu</title><body><center>
+	<table width=260>
+		<tr>
+			<td><button value="Main" action="bypass -h admin_admin" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+			<td><button value="Game" action="bypass -h admin_admin2" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+			<td><button value="Effects" action="bypass -h admin_admin3" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+			<td><button value="Server" action="bypass -h admin_admin4" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+		</tr>
+	</table>
+	<img src="l2ui.SquareWhite" width=275 height=1>
+	<table width=240>
+		<tr>
+			<td>QuickBox</td>
+			<td><edit var="menu_command" width=120 height=15></td>
+			<td><button value="Help" action="bypass -h admin_help help/1.htm" width=50 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>
+	<br>
+	<table width=240>
+		<tr>
+			<td><button value="Item" action="bypass -h admin_itemcreate" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Teleport" action="bypass -h admin_move_to $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Ban IP" action="bypass -h admin_ban_ip $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Create Zone" action="bypass -h admin_create_zone $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr><tr>
+			<td><button value="GM Shop" action="bypass -h admin_gmshop" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Enchant" action="bypass -h admin_enchant" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="GM Chat" action="bypass -h admin_gmchat_menu $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Show Item" action="bypass -h admin_show_item $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>
+	<table width=240>
+		<tr>
+		<td><button value="Players ON" action="bypass voiced_playerscont" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Donate" action="bypass -h admin_donate $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Phantom Town" action="bypass -h admin_spawn_phantomtown" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Phantom PvP" action="bypass -h admin_spawn_phantom" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>	
+	<table width=240>
+		<tr>
+			<td><button value="Augument" action="bypass -h admin_add_arglist $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Delete" action="bypass -h admin_delete $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Phantom Farm" action="bypass -h admin_spawn_phantomfarm $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="VoteZone" action="bypass -h admin_votezone $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>
+		<table width=240>
+		<tr>
+			<td><button value="Manage" action="bypass -h admin_char_manage" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="List" action="bypass -h admin_show_characters 1" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Find" action="bypass -h admin_find_character $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Dualbox" action="bypass -h admin_find_dualbox $qbox" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+		<tr>
+			<td><button value="Go To" action="bypass -h admin_goto $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Recall" action="bypass -h admin_recall $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Karma" action="bypass -h admin_setkarma $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="No Karma" action="bypass -h admin_setkarma 0" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr><tr>
+			<td><button value="Set Name" action="bypass -h admin_setname $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Set Title" action="bypass -h admin_settitle $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Get Buffs" action="bypass -h admin_getbuffs $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Announce" action="bypass -h admin_announce list $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>
+	<table width=240>
+		<tr>
+			<td><button value="Kill" action="bypass -h admin_kill" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Res" action="bypass -h admin_res" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Open" action="bypass -h admin_open" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Close" action="bypass -h admin_close" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr><tr>
+			<td><button value="Delete" action="bypass -h admin_delete" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Heal" action="bypass -h admin_heal" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Pet Infos" action="bypass -h admin_summon_info" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Full Food" action="bypass -h admin_fullfood" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+		<tr>
+			<td><button value="PartyZone" action="bypass -h admin_partyzone" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="TvT" action="bypass -h admin_tvt" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="CTF" action="bypass -h admin_ctf" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Tournament" action="bypass -h admin_tournament" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><button value="Mobs List" action="bypass -h admin_spawn $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Spawnlist" action="bypass -h admin_list_spawns $menu_command" width=70 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td></td>
+		</tr>
+	</table>
+	
+		<table width=240>
+		<tr>
+			<td><button value="Delete All bot pvp" action="bypass -h admin_deleteallphantompvp" width=95 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Delete All bot farm" action="bypass -h admin_deleteallphantomfarm" width=95 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Delete All bot city" action="bypass -h admin_deleteallphantomtown" width=95 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>	
+<br><br>
+		<table width=260>
+		<tr>
+			<td>GM Speed</td>
+			<td><button value="1" action="bypass -h admin_gmspeed_menu 1" width=25 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="2" action="bypass -h admin_gmspeed_menu 2" width=25 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="3" action="bypass -h admin_gmspeed_menu 3" width=25 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="4" action="bypass -h admin_gmspeed_menu 4" width=25 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td><button value="Off" action="bypass -h admin_gmspeed_menu 0" width=25 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table>
+</center></body></html>

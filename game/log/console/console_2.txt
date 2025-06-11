@@ -1,0 +1,193 @@
+[10-06-2025 23:15:13]	INFO	-----------------------------------------------------------------------=[ Team-L2J-A.L.N ]
+[10-06-2025 23:15:14]	INFO	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::##:::::::::#######:::::::::##:::######:::::##:::::::::::##:::::##:::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::##::::::::##:::::##::::::::##::##::::##::::##:::::::::::###::::##:::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::##:::::::::::::::##::::::::##::##::::##::::##:::::::::::####:::##:::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::##:::::::::#######:::::::::##::########::::##:::::::::::##:##::##:::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::##::::::::##:::::::::##::::##::##::::##::::##:::::##::::##:.##:##:::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::##::::::::##:::::::::##::::##::##::::##::::##:::::##::::##:::####:::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::########::#########:::######:::##::::##:##:#########:##:##::::###:::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[10-06-2025 23:15:14]	INFO	:::::::::::::::::::::::::::::::::::[ L2jALN ]:::::::::::::::::::::::::::::::::::::::::::::
+[10-06-2025 23:15:14]	INFO	::::::::::::Trabalho desenvolvido e pertencente a Anderson Luis do Nascimento:::::::::::::
+[10-06-2025 23:15:14]	INFO	:::::::::::::::::::::::::::::::::::::Dev <A.L.N/>:::::::::::::::::::::::::::::::::::::::::
+[10-06-2025 23:15:14]	INFO	
+[10-06-2025 23:15:14]	INFO	-------------------------------------------------------------------------------=[ L2jALN ]
+[10-06-2025 23:15:14]	INFO	-------------------------------------------------------------=[ Project 2025 ]
+[10-06-2025 23:15:14]	INFO	------------------------------------------------------------=[ Base aCis 382 ]
+[10-06-2025 23:15:14]	INFO	Loading gameserver configuration files.
+[10-06-2025 23:15:14]	INFO	Chat Filter: Loaded 9 Filter Words.
+[10-06-2025 23:15:14]	INFO	MLog clients using java 1.4+ standard logging.
+[10-06-2025 23:15:15]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+[10-06-2025 23:15:24]	INFO	Initializing ThreadPool.
+[10-06-2025 23:15:24]	INFO	----------------------------------------------------------------=[ IdFactory ]
+[10-06-2025 23:15:24]	INFO	Updated characters online status.
+[10-06-2025 23:15:24]	INFO	Cleaned 1258 elements from database.
+[10-06-2025 23:15:24]	INFO	Cleaned 0 expired timestamps from database.
+[10-06-2025 23:15:24]	INFO	IDFactory: 102912 id's available.
+[10-06-2025 23:15:24]	INFO	--------------------------------------------------------------------=[ World ]
+[10-06-2025 23:15:24]	CONFIG	GameTimeController: Started.
+[10-06-2025 23:15:24]	INFO	World: WorldRegion grid (88 by 128) is now set up.
+[10-06-2025 23:15:24]	INFO	MapRegionTable: Loaded 176 regions.
+[10-06-2025 23:15:24]	INFO	Loaded 1 announcements.
+[10-06-2025 23:15:24]	INFO	Loaded 1 server variables.
+[10-06-2025 23:15:24]	INFO	-------------------------------------------------------------------=[ Skills ]
+[10-06-2025 23:15:25]	CONFIG	FishingSkillTreeTable: Loaded 109 general skills.
+[10-06-2025 23:15:25]	CONFIG	DwarvenCraftSkillTreeTable: Loaded 8 dwarven skills.
+[10-06-2025 23:15:25]	CONFIG	EnchantSkillTreeTable: Loaded 30 enchant types and 14550 enchant skills.
+[10-06-2025 23:15:25]	CONFIG	PledgeSkillTreeTable: Loaded 64 pledge skills.
+[10-06-2025 23:15:27]	INFO	SkillTable: Loaded 29631 skills.
+[10-06-2025 23:15:27]	INFO	--------------------------------------------------------------------=[ Items ]
+[10-06-2025 23:15:28]	INFO	ItemTable: Highest used itemID : 20022
+[10-06-2025 23:15:28]	INFO	Loaded 14 summon items.
+[10-06-2025 23:15:28]	INFO	Loaded 180 hennas.
+[10-06-2025 23:15:28]	INFO	Loaded 701 buyLists.
+[10-06-2025 23:15:29]	INFO	Loaded 58 multisell.
+[10-06-2025 23:15:29]	INFO	RecipeTable: Loaded 871 recipes.
+[10-06-2025 23:15:29]	INFO	Loaded 57 armor sets.
+[10-06-2025 23:15:29]	INFO	Loaded 270 fish.
+[10-06-2025 23:15:29]	INFO	Loaded 334 spellbooks.
+[10-06-2025 23:15:29]	INFO	Loaded 39 Soul Crystals data and 127 NPCs data.
+[10-06-2025 23:15:29]	INFO	Loaded 4 sets of augmentation stats.
+[10-06-2025 23:15:29]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[10-06-2025 23:15:29]	INFO	CursedWeaponsManager: Loaded 2 cursed weapons.
+[10-06-2025 23:15:29]	INFO	Icon Table: Loaded 9190 icons.
+[10-06-2025 23:15:29]	INFO	-------------------------------------------------------------------=[ Admins ]
+[10-06-2025 23:15:29]	INFO	Loaded 10 access levels.
+[10-06-2025 23:15:29]	INFO	Loaded 323 admin command rights.
+[10-06-2025 23:15:29]	INFO	Loaded 0 bookmarks.
+[10-06-2025 23:15:29]	INFO	---------------------------------------------------------------=[ Characters ]
+[10-06-2025 23:15:29]	INFO	CharTemplateTable: Loaded 89 character templates.
+[10-06-2025 23:15:29]	INFO	CharTemplateTable: Loaded 89 classes skills trees.
+[10-06-2025 23:15:29]	INFO	PlayerNameTable: Loaded 3 players data.
+[10-06-2025 23:15:29]	INFO	Loaded 14 newbie buffs.
+[10-06-2025 23:15:29]	INFO	Loaded 860 teleport locations.
+[10-06-2025 23:15:29]	INFO	RaidBossPointsManager: Loaded 2 characters with Raid Points infos.
+[10-06-2025 23:15:29]	INFO	---------------------------------------------------------=[ Community server ]
+[10-06-2025 23:15:29]	INFO	Community server is disabled.
+[10-06-2025 23:15:29]	INFO	--------------------------------------------------------------------=[ Clans ]
+[10-06-2025 23:15:29]	INFO	Loaded 0 crests.
+[10-06-2025 23:15:29]	INFO	Loaded 0 clans.
+[10-06-2025 23:15:30]	INFO	AuctionManager: Loaded 38 auction(s)
+[10-06-2025 23:15:30]	INFO	ClanHallManager: Loaded 0 clan halls.
+[10-06-2025 23:15:30]	INFO	ClanHallManager: Loaded 44 free clan halls.
+[10-06-2025 23:15:30]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
+[10-06-2025 23:15:30]	INFO	Loaded 0 L2D region files.
+[10-06-2025 23:15:30]	INFO	Loaded 32 node buffers.
+[10-06-2025 23:15:30]	INFO	--------------------------------------------------------------------=[ Zones ]
+[10-06-2025 23:15:30]	INFO	ZoneManager: Loading zones...
+[10-06-2025 23:15:34]	INFO	ZoneManager: Loaded 34 zones classes and total 1094 zones.
+[10-06-2025 23:15:34]	INFO	------------------------------------------------------------=[ Task Managers ]
+[10-06-2025 23:15:34]	INFO	Restored 0 items on ground.
+[10-06-2025 23:15:34]	INFO	ChatBanManager: Loaded 0 banned hwids.
+[10-06-2025 23:15:34]	INFO	HeroManager: Loaded 0 characters with hero privileges.
+[10-06-2025 23:15:34]	INFO	VipManager: Loaded 3 characters with vip privileges.
+[10-06-2025 23:15:34]	INFO	AioManager: Loaded 0 characters with aio privileges.
+[10-06-2025 23:15:34]	INFO	ChatGlobal_Manager: Loaded 0 characters with chat time.
+[10-06-2025 23:15:34]	INFO	ChatHero_Manager: Loaded 0 characters with chat time.
+[10-06-2025 23:15:34]	INFO	------------------------------------------------------------------=[ Castles ]
+[10-06-2025 23:15:34]	INFO	CastleManager: Loaded 9 castles.
+[10-06-2025 23:15:34]	INFO	--------------------------------------------------------------=[ Seven Signs ]
+[10-06-2025 23:15:34]	INFO	SevenSigns: Currently on Seal Validation period.
+[10-06-2025 23:15:34]	INFO	SevenSigns: The Seal of Gnosis remains unclaimed.
+[10-06-2025 23:15:34]	INFO	SevenSigns: The Seal of Avarice remains unclaimed.
+[10-06-2025 23:15:34]	INFO	SevenSigns: The Seal of Strife remains unclaimed.
+[10-06-2025 23:15:34]	INFO	SevenSigns: The competition ended with a tie last week.
+[10-06-2025 23:15:34]	INFO	SevenSigns: Next period change set to Mon Jun 16 18:00:00 BRT 2025
+[10-06-2025 23:15:34]	INFO	SevenSigns: Next period begins in 5 days, 18 hours and 44 mins.
+[10-06-2025 23:15:34]	INFO	SevenSignsFestival: Initialization bypassed due to Seal Validation in effect.
+[10-06-2025 23:15:34]	INFO	------------------------------------------------------------=[ Manor Manager ]
+[10-06-2025 23:15:34]	INFO	CastleManorManager: Loaded 256 seeds.
+[10-06-2025 23:15:34]	INFO	---------------------------------------------------------------------=[ NPCs ]
+[10-06-2025 23:15:34]	INFO	RaidBossInfoManager: Loaded 201 instances.
+[10-06-2025 23:15:34]	INFO	BufferTable: Loaded 0 players schemes and 91 available buffs.
+[10-06-2025 23:15:34]	INFO	Loaded 2 herbs groups.
+[10-06-2025 23:15:36]	INFO	NpcTable: Loaded 6519 NPC templates.
+[10-06-2025 23:15:36]	INFO	Loaded 12 Walker routes.
+[10-06-2025 23:15:37]	INFO	DoorTable: Loaded 547 doors templates.
+[10-06-2025 23:15:37]	INFO	Loaded 29 static objects.
+[10-06-2025 23:15:39]	CONFIG	SpawnTable: Loaded 41905 Npc Spawn Locations.
+[10-06-2025 23:15:39]	INFO	RaidBossSpawnManager: Loaded 188 instances.
+[10-06-2025 23:15:39]	INFO	RaidBossSpawnManager: Scheduled 0 instances.
+[10-06-2025 23:15:39]	INFO	GrandBossManager: Loaded 12 GrandBosses instances.
+[10-06-2025 23:15:39]	INFO	DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[10-06-2025 23:15:39]	INFO	DimensionalRiftManager: Loaded 462 dimensional rift spawns, 0 errors.
+[10-06-2025 23:15:39]	INFO	-------------------------------------------------------=[ Olympiads & Heroes ]
+[10-06-2025 23:15:39]	INFO	Olympiad: Loaded 21 stadiums.
+[10-06-2025 23:15:39]	INFO	Olympiad: Currently in Competition period.
+[10-06-2025 23:15:39]	INFO	Olympiad: 18044 minutes until period ends.
+[10-06-2025 23:15:39]	INFO	Olympiad: Next weekly change is in 8389 minutes.
+[10-06-2025 23:15:39]	INFO	Olympiad: Loaded 0 nobles.
+[10-06-2025 23:15:39]	INFO	Olympiad: Competition period starts in 0 days, 0 hours and 0 mins.
+[10-06-2025 23:15:39]	INFO	Olympiad: Event starts/started : Tue Jun 10 18:00:39 BRT 2025
+[10-06-2025 23:15:39]	INFO	Hero: Loaded 0 heroes.
+[10-06-2025 23:15:39]	INFO	Hero: Loaded 0 all time heroes.
+[10-06-2025 23:15:39]	INFO	----------------------------------------------------------=[ Four Sepulchers ]
+[10-06-2025 23:15:39]	INFO	Olympiad: Olympiad game started.
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: loaded 20 Mysterious-Box spawns.
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: loaded 716 Physical type monsters spawns.
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: loaded 716 Magical type monsters spawns.
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: spawned Conquerors' Sepulcher Manager
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: spawned Emperors' Sepulcher Manager
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: spawned Great Sages' Sepulcher Manager
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: spawned Judges' Sepulcher Manager
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: attack time.
+[10-06-2025 23:15:39]	INFO	FourSepulchersManager: attack time announced.
+[10-06-2025 23:15:39]	INFO	---------------------------------------------------------=[ Quests & Scripts ]
+[10-06-2025 23:15:40]	INFO	ScriptManager: Loaded 385 scripts, 3 are scheduled.
+[10-06-2025 23:15:40]	INFO	-------------------------------------------------------------------=[ Events ]
+[10-06-2025 23:15:40]	INFO	CoupleManager : Loaded 0 couples.
+[10-06-2025 23:15:40]	INFO	FishingChampionshipManager : new event period start.
+[10-06-2025 23:15:40]	INFO	MonsterRace : loaded 14844 records, currently on race #14845
+[10-06-2025 23:15:40]	INFO	TvT Event Proximo Evento: Wed Jun 11 00:00:00 BRT 2025
+[10-06-2025 23:15:40]	INFO	TVT Event is enabled.
+[10-06-2025 23:15:40]	INFO	CTF Event is disabled.
+[10-06-2025 23:15:40]	INFO	PartyFarm, Auto Event is enabled.
+[10-06-2025 23:15:40]	INFO	PartyFarm,: Proximo Evento: Wed Jun 11 00:15:00 BRT 2025
+[10-06-2025 23:15:40]	INFO	Mission Reset: Proximo Reset: Wed Jun 11 00:00:00 BRT 2025
+[10-06-2025 23:15:40]	INFO	Tournament Event is enabled.
+[10-06-2025 23:15:40]	INFO	Tournament: Proximo Evento: Wed Jun 11 01:00:00 BRT 2025
+[10-06-2025 23:15:40]	INFO	CharacterKillingManager: Started! Cycle: 13 - Next cycle in: 9053s
+[10-06-2025 23:15:40]	INFO	Start Spawn PartyFarm,: Enabled
+[10-06-2025 23:15:40]	INFO	----------------------------------------------------------------=[ Vote Zone ]
+[10-06-2025 23:15:40]	INFO	PvpZone: Loading zones...
+[10-06-2025 23:15:40]	INFO	PvPEvent: Event is active.
+[10-06-2025 23:15:40]	INFO	PvP Event Proximo Evento: Wed Jun 11 15:00:00 BRT 2025
+[10-06-2025 23:15:40]	INFO	VoteZone: desativado...
+[10-06-2025 23:15:40]	INFO	-------------------------------------------------------------------=[ Others ]
+[10-06-2025 23:15:40]	INFO	Reset_Daily: Proximo Reset: Wed Jun 11 00:00:00 BRT 2025
+[10-06-2025 23:15:40]	INFO	AutoRestart: Next Restart Time: Wed Jun 11 05:00:00 BRT 2025
+[10-06-2025 23:15:40]	INFO	-----------------------------------------------------------=[ Balance System ]
+[10-06-2025 23:15:40]	INFO	Loaded 31 oly classes Damages configurations
+[10-06-2025 23:15:41]	INFO	---------------------------------------------------------------=[ Protection ]
+[10-06-2025 23:15:41]	INFO	PartyZoneManager - Loaded.
+[10-06-2025 23:15:41]	INFO	RaidZoneManager - Loaded.
+[10-06-2025 23:15:41]	INFO	SoloZoneManager - Loaded.
+[10-06-2025 23:15:41]	INFO	IPManager - Loaded.
+[10-06-2025 23:15:41]	INFO	----------------------------------------------------------=[ Phantom Players ]
+[10-06-2025 23:15:41]	INFO	Loaded 31025 fake player names.
+[10-06-2025 23:15:41]	INFO	Loaded 89 fake player titles.
+[10-06-2025 23:15:41]	INFO	----------------------------------------------------------=[ DressMe Manager ]
+[10-06-2025 23:15:41]	INFO	Loaded 32 dressme templates.
+[10-06-2025 23:15:41]	INFO	-------------------------------------------------------------=[ Hwid Manager ]
+[10-06-2025 23:15:41]	INFO	-----------------------------------------------------------------=[ Handlers ]
+[10-06-2025 23:15:41]	INFO	AutoSpawnHandler: Loaded 124 handlers.
+[10-06-2025 23:15:41]	INFO	Loaded 372 admin command handlers.
+[10-06-2025 23:15:41]	INFO	Loaded 13 chat handlers.
+[10-06-2025 23:15:41]	INFO	Loaded 79 item handlers.
+[10-06-2025 23:15:41]	INFO	Loaded 73 skill handlers.
+[10-06-2025 23:15:41]	INFO	Loaded 15 user command handlers.
+[10-06-2025 23:15:41]	INFO	Loaded 122 voiced command handlers.
+[10-06-2025 23:15:41]	INFO	-------------------------------------------------------------------=[ System ]
+[10-06-2025 23:15:41]	INFO	Deadlock detector is disabled.
+[10-06-2025 23:15:42]	INFO	Gameserver has started, used memory: 302 / 8192 Mo.
+[10-06-2025 23:15:42]	INFO	Maximum allowed players: 5000.
+[10-06-2025 23:15:42]	INFO	Server Loaded in 28 seconds
+[10-06-2025 23:15:42]	INFO	--------------------------------------------------------------------=[ Login ]
+[10-06-2025 23:15:42]	INFO	=== CONFIGURAÇÃO: LOCALHOST ===
+[10-06-2025 23:15:42]	INFO	Servidor configurado para desenvolvimento local
+[10-06-2025 23:15:42]	INFO	Use esta configuração para testes em sua máquina
+[10-06-2025 23:15:42]	INFO	Connecting to login on 127.0.0.1:9014
+[10-06-2025 23:15:42]	INFO	Registered on login as server: [1] L2Jaln

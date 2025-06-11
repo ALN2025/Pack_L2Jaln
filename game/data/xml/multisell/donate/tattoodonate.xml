@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Consumables -->
+
+<list>
+
+  
+  
+    <item id="4">
+    <production id="20001" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+
+  </item>
+  
+      <item id="5">
+    <production id="20002" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+
+  </item>
+  
+        <item id="6">
+    <production id="20003" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+
+  </item>
+  
+          <item id="7">
+    <production id="20004" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+
+  </item>
+
+  
+          <item id="8">
+    <production id="20005" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+
+  </item>
+  
+          <item id="9">
+    <production id="20006" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+
+  </item>
+  
+          <item id="10">
+    <production id="20007" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+  </item>
+  
+          <item id="11">
+    <production id="20008" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+  </item>
+  
+          <item id="12">
+    <production id="20009" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+  </item>
+  
+          <item id="13">
+    <production id="20010" count="1"/>
+	<ingredient id="9503" count="30" enchant="0"/>
+  </item>
+</list>

@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Gm Shop Lineage II - Edivas -->
+<!-- Weapons D-Grade -->
+
+<list maintainEnchantment="true">
+
+
+
+  <!-- Sword of Mystic   -->
+  <item id="1">
+    <ingredient id="57" count="500000"/>
+    <production id="143" count="1"/>
+  </item>
+  
+  <!-- Knight's Sword    -->
+  <item id="2">
+    <ingredient id="57" count="700000"/>
+    <production id="128" count="1"/>
+  </item>
+
+  <!-- Elven Sword   -->
+  <item id="3">
+    <ingredient id="57" count="900000"/>
+    <production id="130" count="1"/>
+  </item>
+ 
+  <!-- Two-Handed Sword   -->
+  <item id="4">
+    <ingredient id="57" count="1100000"/>
+    <production id="124" count="1"/>
+  </item>
+ 
+  <!-- Sword of Revolution   -->
+  <item id="5">
+    <ingredient id="57" count="1300000"/>
+    <production id="129" count="1"/>
+  </item>
+
+  <!-- Claymore   -->
+  <item id="6">
+    <ingredient id="57" count="2000000"/>
+    <production id="70" count="1"/>
+  </item>
+
+  <!-- Assassin Knife   -->
+  <item id="7">
+    <ingredient id="57" count="500000"/>
+    <production id="221" count="1"/>
+  </item>
+
+
+  <!-- Mystic Knife   -->
+  <item id="8">
+    <ingredient id="57" count="700000"/>
+    <production id="239" count="1"/>
+  </item>
+
+  <!-- Kukuri   -->
+  <item id="9">
+    <ingredient id="57" count="900000"/>
+    <production id="223" count="1"/>
+  </item>
+  
+  <!-- Cursed Maingauche -->
+  <item id="10">
+    <ingredient id="57" count="1100000"/>
+    <production id="1660" count="1"/>
+  </item>
+
+  <!-- Maingauche   -->
+  <item id="11">
+    <ingredient id="57" count="1300000"/>
+    <production id="224" count="1"/>
+  </item>
+
+  <!-- Mithril Dagger   -->
+  <item id="12">
+    <ingredient id="57" count="2000000"/>
+    <production id="225" count="1"/>
+  </item>
+  
+  <!-- Strengthened Bow   -->
+  <item id="13">
+    <ingredient id="57" count="500000"/>
+    <production id="274" count="1"/>
+  </item>
+  
+  <!-- Dark Elven bow   -->
+  <item id="14">
+    <ingredient id="57" count="700000"/>
+    <production id="277" count="1"/>
+  </item>
+  
+  <!-- Long Bow  -->
+  <item id="15">
+    <ingredient id="57" count="900000"/>
+    <production id="275" count="1"/>
+  </item>
+  
+  <!-- Gastraphetes   -->
+  <item id="16">
+    <ingredient id="57" count="1100000"/>
+    <production id="278" count="1"/>
+  </item>
+  
+  <!-- Strengthened Long Bow -->
+  <item id="17">
+    <ingredient id="57" count="1300000"/>
+    <production id="279" count="1"/>
+  </item>
+  
+  <!-- Light Crossbow   -->
+  <item id="18">
+    <ingredient id="57" count="2000000"/>
+    <production id="280" count="1"/>
+  </item>
+  
+  <!-- Bagh-Nakh   -->
+  <item id="19">
+    <ingredient id="57" count="500000"/>
+    <production id="258" count="1"/>
+  </item>
+  
+  <!-- Single-Edged Jamadhr   -->
+  <item id="20">
+    <ingredient id="57" count="700000"/>
+    <production id="259" count="1"/>
+  </item>
+  
+  <!-- Triple-Edged Jamadhr   -->
+  <item id="21">
+    <ingredient id="57" count="900000"/>
+    <production id="260" count="1"/>
+  </item>
+  
+  <!-- Bich'Hwa   -->
+  <item id="22">
+    <ingredient id="57" count="1100000"/>
+    <production id="261" count="1"/>
+  </item>
+  
+  <!-- Traveler's Jamadhr   -->
+  <item id="23">
+    <ingredient id="57" count="1300000"/>
+    <production id="7828" count="1"/>
+  </item>
+
+  <!-- Scallop Jamadhr -->
+  <item id="24">
+    <ingredient id="57" count="2000000"/>
+    <production id="262" count="1"/>
+  </item>
+  
+  <!-- Trident   -->
+  <item id="25">
+    <ingredient id="57" count="500000"/>
+    <production id="291" count="1"/>
+  </item>
+  
+  <!-- Dwarven Trident   -->
+  <item id="26">
+    <ingredient id="57" count="700000"/>
+    <production id="295" count="1"/>
+  </item>
+  
+  <!-- War Hammer   -->
+  <item id="27">
+    <ingredient id="57" count="900000"/>
+    <production id="293" count="1"/>
+  </item>
+  
+  <!-- War Pick   -->
+  <item id="28">
+    <ingredient id="57" count="1100000"/>
+    <production id="294" count="1"/>
+  </item>
+  
+  <!-- Winged Spear   -->
+  <item id="29">
+    <ingredient id="57" count="1300000"/>
+    <production id="93" count="1"/>
+  </item>
+  
+  <!-- Glaive   -->
+  <item id="30">
+    <ingredient id="57" count="2000000"/>
+    <production id="297" count="1"/>
+  </item>
+
+  
+  <!-- Heavy Mace   -->
+  <item id="31">
+    <ingredient id="57" count="500000"/>
+    <production id="166" count="1"/>
+  </item>
+
+  
+  <!-- Tomahawk   -->
+  <item id="32">
+    <ingredient id="57" count="700000"/>
+    <production id="86" count="1"/>
+  </item>
+
+  
+  <!-- Spiked Club   -->
+  <item id="33">
+    <ingredient id="57" count="900000"/>
+    <production id="157" count="1"/>
+  </item>
+
+  <!-- Staff of Life   -->
+  <item id="34">
+    <ingredient id="57" count="1100000"/>
+    <production id="189" count="1"/>
+  </item>
+  
+  <!-- Tarbar   -->
+  <item id="35">
+    <ingredient id="57" count="1300000"/>
+    <production id="158" count="1"/>
+  </item>
+  
+  <!-- Bonebreaker   -->
+  <item id="36">
+    <ingredient id="57" count="2000000"/>
+    <production id="159" count="1"/>
+  </item>
+
+  <!-- Bone Staff   -->
+  <item id="37">
+    <ingredient id="57" count="500000"/>
+    <production id="178" count="1"/>
+  </item>
+
+    <!-- Mystic Staff   -->
+  <item id="38">
+    <ingredient id="57" count="700000"/>
+    <production id="183" count="1"/>
+  </item>
+
+    <!-- Staff of Magic   -->
+  <item id="39">
+    <ingredient id="57" count="900000"/>
+    <production id="186" count="1"/>
+  </item>
+  
+  <!-- Goat Head Staff   -->
+  <item id="40">
+    <ingredient id="57" count="1100000"/>
+    <production id="90" count="1"/>
+  </item>
+  
+  <!-- Atuba Mace   -->
+  <item id="41">
+    <ingredient id="57" count="1300000"/>
+    <production id="190" count="1"/>
+  </item>
+  
+  <!-- Ghost Staff   -->
+  <item id="42">
+    <ingredient id="57" count="2000000"/>
+    <production id="188" count="1"/>
+  </item>
+
+
+
+</list>

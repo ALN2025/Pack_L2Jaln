@@ -1,0 +1,4 @@
+21/05/2022 20:41:53 >>> HWID: [1867B0B47148] >>> Jogador  [Carlinhosl2j]
+21/05/2022 22:04:19 >>> HWID: [1867B0B47148] >>> Jogador  [Carlinhosl2j]
+22/05/2022 13:53:40 >>> HWID: [1867B0B47148] >>> Jogador  [Carlinhosl2j]
+22/05/2022 15:12:46 >>> HWID: [1867B0B47148] >>> Jogador  [Carlinhosl2j]

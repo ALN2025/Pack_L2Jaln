@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	   	<!-- verde -->	      
+       <template pvpAmount="500" nameColor="39168"/> 
+	   	<!-- amarelo-->	   
+       <template pvpAmount="1000" nameColor="16744192"/>	   	   
+	   	<!-- azul-->	   
+       <template pvpAmount="1500" nameColor="10028082"/>   
+	    <!-- roxo-->
+       <template pvpAmount="2000" nameColor="39423"/>
+	   	<!-- azul escuro-->	      
+       <template pvpAmount="3000" nameColor="3342438"/>	   
+	   	<!-- roxo escuro-->	      
+       <template pvpAmount="5000" nameColor="000000"/>
+</list>

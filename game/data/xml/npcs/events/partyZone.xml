@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="50067" idTemplate="29046" name="Frintezza Guardian" title="Guardian">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>				
+		<set name="level" val="81"/>
+		<set name="radius" val="45"/>
+		<set name="height" val="90.7"/>
+		<set name="rHand" val="8204"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="RaidBoss"/>
+		<set name="exp" val="1393971"/>
+		<set name="sp" val="205212"/>
+		<set name="hp" val="100041"/>
+		<set name="mp" val="804"/>
+		<set name="hpRegen" val="58.0887964751743"/>
+		<set name="mpRegen" val="2.4"/>
+		<set name="pAtk" val="754.88111713047"/>
+		<set name="pDef" val="2185.643995"/>
+		<set name="mAtk" val="526.64874503057"/>
+		<set name="mDef" val="2000.3992"/>
+		<set name="crit" val="8"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="100"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>	
+	<npc id="50068" idTemplate="31691" name="Pancada" title="Teste Dano">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>						
+		<set name="level" val="80"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="22"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="1820975"/>
+		<set name="sp" val="806823"/>
+		<set name="hp" val="10000041"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="9277.057601433902"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="0"/>
+		<set name="pDef" val="500"/>
+		<set name="mAtk" val="0"/>
+		<set name="mDef" val="500"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="1"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="70"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="false" seedable="false"/>
+	</npc>	
+	<npc id="50066" idTemplate="18334" name="Fat Captain" title="Party Zone">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>	
+		<set name="level" val="80"/>
+		<set name="radius" val="21"/>
+		<set name="height" val="50"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="70041"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="200.057601433902"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="10000.18466694754"/>
+		<set name="pDef" val="2500"/>
+		<set name="mAtk" val="10000"/>
+		<set name="mDef" val="3000"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="1"/>
+		<set name="walkSpd" val="31"/>
+		<set name="runSpd" val="150"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4278" level="1"/>
+			<skill id="4286" level="1"/>
+			<skill id="4333" level="3"/>
+			<skill id="4408" level="13"/>
+			<skill id="4410" level="16"/>
+			<skill id="4412" level="13"/>
+			<skill id="4416" level="9"/>
+		</skills>
+	<drops>
+			<category id="0">
+				<drop itemid="57" min="5000" max="10000" chance="1000000"/>
+			</category>
+			<!-- ARMAS S -->
+			<category id="1">
+				<drop itemid="6366" min="1" max="1" chance="1500"/>
+				<drop itemid="6369" min="1" max="1" chance="1500"/>
+				<drop itemid="6579" min="1" max="1" chance="1500"/>
+				<drop itemid="6365" min="1" max="1" chance="1500"/>
+				<drop itemid="6370" min="1" max="1" chance="1500"/>
+				<drop itemid="6371" min="1" max="1" chance="1500"/>
+				<drop itemid="6368" min="1" max="1" chance="1500"/>
+				<drop itemid="7575" min="1" max="1" chance="1500"/>
+				<drop itemid="6367" min="1" max="1" chance="1500"/>
+				<drop itemid="6372" min="1" max="1" chance="1500"/>
+				<drop itemid="6364" min="1" max="1" chance="1500"/>
+				<drop itemid="2500" min="1" max="1" chance="1500"/>
+				<drop itemid="80" min="1" max="1" chance="1500"/>
+			</category>
+			<!-- ROPA DRACONIC SELLADA S -->
+			<category id="2">
+				<drop itemid="6680" min="1" max="1" chance="1500"/>
+				<drop itemid="6681" min="1" max="1" chance="1500"/>
+				<drop itemid="6682" min="1" max="1" chance="1500"/>
+				<drop itemid="6683" min="1" max="1" chance="1500"/>
+			<!-- ROPA IMPERIAL SELLADA S -->
+				<drop itemid="6674" min="1" max="1" chance="1500"/>
+				<drop itemid="6675" min="1" max="1" chance="1500"/>
+				<drop itemid="6676" min="1" max="1" chance="1500"/>
+				<drop itemid="6677" min="1" max="1" chance="1500"/>
+				<drop itemid="6678" min="1" max="1" chance="1500"/>
+			<!-- ROPA MAJOR ARCANA SELLADA S -->
+				<drop itemid="6684" min="1" max="1" chance="1500"/>
+				<drop itemid="6685" min="1" max="1" chance="1500"/>
+				<drop itemid="6686" min="1" max="1" chance="1500"/>
+				<drop itemid="6687" min="1" max="1" chance="1500"/>
+			<!-- JOYAS SELLADAS S -->
+				<drop itemid="6726" min="1" max="1" chance="1500"/>
+				<drop itemid="6724" min="1" max="1" chance="1500"/>
+				<drop itemid="6725" min="1" max="1" chance="1500"/>
+			</category>	
+			<category id="3">
+				<drop itemid="8762" min="1" max="1" chance="9000"/>
+				<drop itemid="6622" min="1" max="1" chance="9000"/>
+			</category>
+			<!-- SCROLLES GRAD A/S -->
+			<category id="4">
+				<drop itemid="6577" min="1" max="1" chance="10000"/>
+				<drop itemid="6578" min="1" max="1" chance="10000"/>
+				<drop itemid="6570" min="1" max="1" chance="10000"/>
+				<drop itemid="6569" min="1" max="1" chance="10000"/>
+			</category>
+				<!-- Drops ingredientes -->
+				<category id="5">
+				<drop itemid="6392" min="1" max="2" chance="1000000"/><!-- event medal farm-->
+			</category>
+		</drops>
+	</npc>	
+	<npc id="50666" idTemplate="25050" name="Xenomorfo" title=" ">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>											
+		<set name="level" val="78"/>
+		<set name="radius" val="45"/>
+		<set name="height" val="141"/>
+		<set name="rHand" val="1472"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="RaidBoss"/>
+		<set name="exp" val="1381165"/>
+		<set name="sp" val="185853"/>
+		<set name="hp" val="20042432.67633202"/>
+		<set name="mp" val="1188.8"/>
+		<set name="hpRegen" val="277.057601433902"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="631.01519545517"/>
+		<set name="pDef" val="3185.67099"/>
+		<set name="mAtk" val="425.23781026179"/>
+		<set name="mDef" val="3100.92"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="10"/>
+		<set name="walkSpd" val="100"/>
+		<set name="runSpd" val="170"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>	
+</list>

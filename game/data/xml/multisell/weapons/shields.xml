@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Epic S-Grade -->
+<list maintainEnchantment="true">
+
+  <item id="1">
+    <production id="14000" count="1" enchant="0"/>
+	<ingredient id="9500" count="10000"/>
+  </item>
+  
+  <item id="2">
+    <production id="14001" count="1" enchant="0"/>
+	<ingredient id="9500" count="10000"/>
+  </item>
+  
+  <item id="3">
+    <production id="14002" count="1" enchant="0"/>
+	<ingredient id="9500" count="10000"/>
+  </item>
+  
+  <item id="4">
+    <production id="14003" count="1" enchant="0"/>
+	<ingredient id="9500" count="10000"/>
+  </item>
+  
+</list>

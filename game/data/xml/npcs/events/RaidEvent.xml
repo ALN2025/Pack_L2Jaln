@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+		<npc id="2008" idTemplate="25450" name="Cherub Galaxia" title="Raid Event">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>	
+		<set name="level" val="79"/>
+		<set name="radius" val="22"/>
+		<set name="height" val="120"/>
+		<set name="rHand" val="97"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="RaidBoss"/>
+		<set name="exp" val="2377821"/>
+		<set name="sp" val="1136977"/>
+		<set name="hp" val="289061.053710865"/>
+		<set name="mp" val="1674.8"/>
+		<set name="hpRegen" val="92.3387631310317"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="400.33274686674"/>
+		<set name="pDef" val="1185.643995"/>
+		<set name="mAtk" val="1426.64874503057"/>
+		<set name="mDef" val="578.3992"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="190"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4183" level="8"/>
+			<skill id="4190" level="8"/>
+			<skill id="4194" level="8"/>
+			<skill id="4416" level="8"/>
+			<skill id="4494" level="1"/>
+			<skill id="4961" level="1"/>
+		</skills>	
+	</npc>
+
+</list>

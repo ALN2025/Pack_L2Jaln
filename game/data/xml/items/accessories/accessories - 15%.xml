@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<item id="16014" type="Armor" name="Cap of The 80th">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+
+	<item id="16022" type="Armor" name="Skull Pirate Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	<item id="16023" type="Armor" name="Wind Dragon Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	<item id="16024" type="Armor" name="Valakas Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	<item id="16025" type="Armor" name="Alien Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	<item id="16026" type="Armor" name="Doccabi Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>	
+	<item id="16027" type="Armor" name="Frank Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>	
+	<item id="16028" type="Armor" name="Abobora Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	<item id="16029" type="Armor" name="Mumia Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	<item id="16030" type="Armor" name="Panic mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<mul val='1.15' order='0x30' stat='pDef'/>
+ 			<mul val='1.15' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+</list>

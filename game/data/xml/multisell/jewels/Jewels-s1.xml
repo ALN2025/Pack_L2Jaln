@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+     
+  <!-- Necklace S -->
+  <item id="1">
+    <ingredient id="6392" count="25"/><!-- Event medal Drop Solo-->
+		<ingredient id="3470" count="5"/><!-- Gold Bar -->
+     <ingredient id="6726" count="1"/><!--Necklace TaTeossian sellado -->
+    <production id="920" count="1" /><!-- Necklace TaTeossian -->
+  </item>
+
+  <!-- Earring S -->
+  <item id="2">
+    <ingredient id="6392" count="25"/><!-- Event medal Drop Solo-->
+		<ingredient id="3470" count="5"/><!-- Gold Bar -->
+    <ingredient id="6724" count="1" /><!-- Earring TaTeossian sellado -->
+    <production id="858" count="1" />
+  </item>
+ 
+  <!-- Ring S -->
+  <item id="3">
+    <ingredient id="6392" count="25"/><!-- Event medal Drop Solo-->
+		<ingredient id="3470" count="5"/><!-- Gold Bar -->
+    <ingredient id="6725" count="1" /><!-- Ring TaTeossian sellado -->
+    <production id="889" count="1" />
+  </item>
+</list>

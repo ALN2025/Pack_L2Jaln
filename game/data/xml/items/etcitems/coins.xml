@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="2807" type="EtcItem" name="Gold Bar">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+
+		<item id="9500" type="EtcItem" name="Star Ornament">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+		<item id="9501" type="EtcItem" name="Event Coin Lv.1">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+		<item id="9502" type="EtcItem" name="Tournament Point's Lv.1">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+		<item id="9503" type="EtcItem" name="Ticket Donate">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+    <item id="9504" type="EtcItem" name="Noblesse Status">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="NoblesItem" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+		<item id="9505" type="EtcItem" name="Clan Full">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="ClanFull" />
+		<set name="is_stackable" val="true" />			
+	</item>
+		<item id="9506" type="EtcItem" name="Donator Scroll: Enchant Weapon">
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="scroll" />		
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="price" val="500000" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+	</item>
+	<item id="9507" type="EtcItem" name="Donator Scroll: Enchant Armor">
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="scroll" />		
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="price" val="500000" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+	</item>
+	
+	<item id="9508" type="EtcItem" name="Gold Bar">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+		<item id="9509" type="EtcItem" name="Crystal Coin">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+		<item id="9510" type="EtcItem" name="Supreme Adena">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+		
+		<item id="9511" type="EtcItem" name="Hero Coin 24 Hours">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Hero24h" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+		<item id="9512" type="EtcItem" name="Vip Coin 24 Hours">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Vip24h" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9513" type="EtcItem" name="Party Coin Lv.1">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9514" type="EtcItem" name="Party Coin Lv.2">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9515" type="EtcItem" name="Tournament Coin Lv.2">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9516" type="EtcItem" name="Hero Coin 7 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Hero7days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9517" type="EtcItem" name="Hero Coin 15 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Hero15days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9518" type="EtcItem" name="Hero Coin 30 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Hero30days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9519" type="EtcItem" name="Hero Coin Eternal">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="HeroEterno" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9520" type="EtcItem" name="Pvp Coin">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9521" type="EtcItem" name="Party Coin Lv.3">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9522" type="EtcItem" name="Update Weapon Scroll">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9523" type="EtcItem" name="Update Chest Scroll">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9524" type="EtcItem" name="Scroll of Escape Infinite">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+		<item id="9525" type="EtcItem" name="Vip Coin 7 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Vip7days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9526" type="EtcItem" name="Vip Coin 15 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Vip15days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9527" type="EtcItem" name="Vip Coin 30 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Vip30days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9528" type="EtcItem" name="Vip Coin Eternal">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="VipEterno" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9530" type="EtcItem" name="Change Class">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="ClassItem" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9531" type="EtcItem" name="Change Name">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="NameChange" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9532" type="EtcItem" name="Change Sex">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="SexCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9533" type="EtcItem" name="Experience">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LevelCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9534" type="EtcItem" name="Change Clan Name">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="ClanNameChange" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9535" type="EtcItem" name="Change Name [Free]">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LevelCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9536" type="EtcItem" name="PK Reset">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="DeletePk" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9537" type="EtcItem" name="Infinity Stone">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="InfinityStone" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9535" type="EtcItem" name="Change Name [Free]">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LevelCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+		<item id="9540" type="EtcItem" name="Premium Status">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LevelCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+		<item id="9541" type="EtcItem" name="Change E-MAIL">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LevelCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9542" type="EtcItem" name="Change Ally Name">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="AllyNameChange" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9543" type="EtcItem" name="Change Ally Name [Free]">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LevelCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9544" type="EtcItem" name="Change Clan Name [Free]">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LevelCoin" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9545" type="EtcItem" name="Party Coin Lv.4">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9546" type="EtcItem" name="Party Coin Lv.5">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9547" type="EtcItem" name="Party Coin Lv.6">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9548" type="EtcItem" name="Solo Stone Lv.1">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9549" type="EtcItem" name="Solo Stone Lv.2">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9550" type="EtcItem" name="Solo Stone Lv.3">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9551" type="EtcItem" name="Solo Stone Lv.4">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9552" type="EtcItem" name="Solo Stone Lv.5">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9553" type="EtcItem" name="Solo Stone Lv.6">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9554" type="EtcItem" name="Lucky Box Lv.1">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="LuckBox" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9555" type="EtcItem" name="Lucky Box Lv.2">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9556" type="EtcItem" name="Lucky Box Lv.3">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9557" type="EtcItem" name="Lucky Box Lv.4">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9558" type="EtcItem" name="Lucky Box Lv.5">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9559" type="EtcItem" name="Lucky Box Lv.6">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9560" type="EtcItem" name="Tournament Point's Lv.2">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9561" type="EtcItem" name="Event Coin Lv.2">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9562" type="EtcItem" name="Tournament Point's Lv.3">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9563" type="EtcItem" name="Event Coin Lv.3">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9564" type="EtcItem" name="Tournament Point's Lv.4">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9565" type="EtcItem" name="Event Coin Lv.4">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9566" type="EtcItem" name="Tournament Point's Lv.5">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9567" type="EtcItem" name="Event Coin Lv.5">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9568" type="EtcItem" name="Tournament Point's Lv.6">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9569" type="EtcItem" name="Event Coin Lv.6">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9570" type="EtcItem" name="AIO 24 Hours">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Aio24h" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9571" type="EtcItem" name="AIO 7 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Aio7days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9572" type="EtcItem" name="AIO 15 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Aio15days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9573" type="EtcItem" name="AIO 30 Days">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="Aio30days" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9574" type="EtcItem" name="AIO Eternal">
+		<set name="default_action" val="skill_reduce" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="equip_reuse_delay" val="30" />		
+		<set name="price" val="500000" />
+		<set name="handler" val="AioEterno" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+		<item id="19998" type="EtcItem" name="Vote Coin">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="19999" type="EtcItem" name="null">
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+	</item>
+
+</list>

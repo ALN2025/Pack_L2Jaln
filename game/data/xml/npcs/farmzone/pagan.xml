@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+	<npc id="22175" name="Andreas' Captain of the Royal Guard" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="22.3"/>
+		<set name="rHand" val="8218"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="3431"/>
+		<set name="sp" val="172"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="1033.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="740.577283506"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="38"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="andreas_clan" clanRange="300" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4047" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="8"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4573" level="9"/>
+			<skill id="4612" level="9"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="1868" min="1" max="1" chance="43478"/>
+				<drop itemid="1873" min="1" max="1" chance="11111"/>
+				<drop itemid="1876" min="1" max="1" chance="11111"/>
+				<drop itemid="1895" min="1" max="1" chance="5555"/>
+			</category>
+			<category id="0">
+				<drop itemid="57" min="215" max="508" chance="700000"/>
+			</category>
+		</drops>
+		<minions>
+			<minion id="22176" min="4" max="4"/>
+		</minions>
+	</npc>
+
+	<npc id="22138" name="Chapel Guard" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="40"/>
+		<set name="height" val="30.5"/>
+		<set name="rHand" val="8217"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="3852"/>
+		<set name="sp" val="458"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="33"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" canMove="false" seedable="true"/>
+		<skills>
+			<skill id="4001" level="9"/>
+			<skill id="4032" level="9"/>
+			<skill id="4253" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="9"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22139" name="Old Aristocrat's Soldier" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="22.3"/>
+		<set name="rHand" val="8216"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="31496"/>
+		<set name="sp" val="3572"/>
+		<set name="hp" val="2975.2369188"/>
+		<set name="mp" val="1742.976"/>
+		<set name="hpRegen" val="8.721"/>
+		<set name="mpRegen" val="3.0804"/>
+		<set name="pAtk" val="538.20801458"/>
+		<set name="pDef" val="354.8183475"/>
+		<set name="mAtk" val="656.66638089"/>
+		<set name="mDef" val="259.6406685"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="38"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4466" level="3"/>
+			<skill id="4622" level="8"/>
+			<skill id="4665" level="8"/>
+		</skills>
+
+	</npc>
+	<npc id="22140" name="Zombie Worker" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="24.6"/>
+		<set name="rHand" val="8218"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="30724"/>
+		<set name="sp" val="3444"/>
+		<set name="hp" val="2937.9838056"/>
+		<set name="mp" val="1708.296"/>
+		<set name="hpRegen" val="8.67"/>
+		<set name="mpRegen" val="3.06"/>
+		<set name="pAtk" val="538.20801458"/>
+		<set name="pDef" val="348.2025"/>
+		<set name="mAtk" val="635.688655236"/>
+		<set name="mDef" val="254.7994782"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="36"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4649" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22141" name="Forgotten Victim" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="24.6"/>
+		<set name="rHand" val="8219"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="31744"/>
+		<set name="sp" val="3564"/>
+		<set name="hp" val="2937.9838056"/>
+		<set name="mp" val="1708.296"/>
+		<set name="hpRegen" val="8.67"/>
+		<set name="mpRegen" val="3.06"/>
+		<set name="pAtk" val="538.20801458"/>
+		<set name="pDef" val="348.2025"/>
+		<set name="mAtk" val="635.688655236"/>
+		<set name="mDef" val="254.7994782"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="36"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4088" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22142" name="Triol's Layperson" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8207"/>
+		<set name="lHand" val="8207"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="32184"/>
+		<set name="sp" val="3650"/>
+		<set name="hp" val="2975.2369188"/>
+		<set name="mp" val="1742.976"/>
+		<set name="hpRegen" val="8.721"/>
+		<set name="mpRegen" val="3.0804"/>
+		<set name="pAtk" val="538.20801458"/>
+		<set name="pDef" val="354.8183475"/>
+		<set name="mAtk" val="656.66638089"/>
+		<set name="mDef" val="259.6406685"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="58"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="1"/>
+			<skill id="4047" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4573" level="1"/>
+			<skill id="4622" level="8"/>
+			<skill id="4665" level="8"/>
+		</skills>
+	</npc>
+	<npc id="22143" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="37204"/>
+		<set name="sp" val="4295"/>
+		<set name="hp" val="3010.8929976"/>
+		<set name="mp" val="1777.86"/>
+		<set name="hpRegen" val="8.772"/>
+		<set name="mpRegen" val="3.1008"/>
+		<set name="pAtk" val="561.93701102"/>
+		<set name="pDef" val="361.0859925"/>
+		<set name="mAtk" val="677.644106544"/>
+		<set name="mDef" val="264.22705872"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4047" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4466" level="3"/>
+			<skill id="4629" level="9"/>
+			<skill id="4668" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22144" name="Resurrected Temple Knight" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="22.3"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="32279"/>
+		<set name="sp" val="3704"/>
+		<set name="hp" val="3010.8929976"/>
+		<set name="mp" val="1777.86"/>
+		<set name="hpRegen" val="8.772"/>
+		<set name="mpRegen" val="3.1008"/>
+		<set name="pAtk" val="561.93701102"/>
+		<set name="pDef" val="361.0859925"/>
+		<set name="mAtk" val="677.644106544"/>
+		<set name="mDef" val="264.22705872"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="38"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4152" level="9"/>
+			<skill id="4160" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4614" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22145" name="Ritual Sacrifice" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="25.8"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="31024"/>
+		<set name="sp" val="3520"/>
+		<set name="hp" val="2975.2369188"/>
+		<set name="mp" val="1742.976"/>
+		<set name="hpRegen" val="8.721"/>
+		<set name="mpRegen" val="3.0804"/>
+		<set name="pAtk" val="538.20801458"/>
+		<set name="pDef" val="354.8183475"/>
+		<set name="mAtk" val="656.66638089"/>
+		<set name="mDef" val="259.6406685"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4614" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22146" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="34612"/>
+		<set name="sp" val="4065"/>
+		<set name="hp" val="3077.1572058"/>
+		<set name="mp" val="1848.24"/>
+		<set name="hpRegen" val="8.874"/>
+		<set name="mpRegen" val="3.1314"/>
+		<set name="pAtk" val="1009.3950039"/>
+		<set name="pDef" val="373.969485"/>
+		<set name="mAtk" val="719.599557852"/>
+		<set name="mDef" val="273.65463924"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4047" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4573" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22147" name="Ritual Offering" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="22.3"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="34170"/>
+		<set name="sp" val="3976"/>
+		<set name="hp" val="3044.88717"/>
+		<set name="mp" val="1812.948"/>
+		<set name="hpRegen" val="8.823"/>
+		<set name="mpRegen" val="3.111"/>
+		<set name="pAtk" val="985.66600746"/>
+		<set name="pDef" val="367.3536375"/>
+		<set name="mAtk" val="699.2575207596"/>
+		<set name="mDef" val="268.81344996"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="38"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4612" level="9"/>
+			<skill id="4615" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22148" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8207"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="66503"/>
+		<set name="sp" val="3320"/>
+		<set name="hp" val="3010.8929976"/>
+		<set name="mp" val="1777.86"/>
+		<set name="hpRegen" val="8.772"/>
+		<set name="mpRegen" val="3.1008"/>
+		<set name="pAtk" val="561.93701102"/>
+		<set name="pDef" val="361.0859925"/>
+		<set name="mAtk" val="677.644106544"/>
+		<set name="mDef" val="264.22705872"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4088" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="8"/>
+			<skill id="4665" level="8"/>
+		</skills>
+
+	</npc>
+	<npc id="22149" name="Ritual Offering" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="22.3"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="32279"/>
+		<set name="sp" val="3704"/>
+		<set name="hp" val="3010.8929976"/>
+		<set name="mp" val="1777.86"/>
+		<set name="hpRegen" val="8.772"/>
+		<set name="mpRegen" val="3.1008"/>
+		<set name="pAtk" val="561.93701102"/>
+		<set name="pDef" val="361.0859925"/>
+		<set name="mAtk" val="677.644106544"/>
+		<set name="mDef" val="264.22705872"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="38"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="1"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4649" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22150" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8207"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="53804"/>
+		<set name="sp" val="2696"/>
+		<set name="hp" val="3044.88717"/>
+		<set name="mp" val="1812.948"/>
+		<set name="hpRegen" val="8.823"/>
+		<set name="mpRegen" val="3.111"/>
+		<set name="pAtk" val="985.66600746"/>
+		<set name="pDef" val="367.3536375"/>
+		<set name="mAtk" val="699.2575207596"/>
+		<set name="mDef" val="268.81344996"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4088" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4466" level="3"/>
+			<skill id="4629" level="9"/>
+			<skill id="4668" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22151" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="39975"/>
+		<set name="sp" val="4780"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4047" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4615" level="9"/>
+			<skill id="4629" level="9"/>
+			<skill id="4668" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22152" name="Temple Guard" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="22.3"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="8219"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="34998"/>
+		<set name="sp" val="4120"/>
+		<set name="hp" val="3077.1572058"/>
+		<set name="mp" val="1848.24"/>
+		<set name="hpRegen" val="8.874"/>
+		<set name="mpRegen" val="3.1314"/>
+		<set name="pAtk" val="1009.3950039"/>
+		<set name="pDef" val="373.969485"/>
+		<set name="mAtk" val="719.599557852"/>
+		<set name="mDef" val="273.65463924"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="38"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22153" name="Temple Guard Captain" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="22.3"/>
+		<set name="rHand" val="8218"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="33873"/>
+		<set name="sp" val="3980"/>
+		<set name="hp" val="3077.1572058"/>
+		<set name="mp" val="1848.24"/>
+		<set name="hpRegen" val="8.874"/>
+		<set name="mpRegen" val="3.1314"/>
+		<set name="pAtk" val="1009.3950039"/>
+		<set name="pDef" val="373.969485"/>
+		<set name="mAtk" val="719.599557852"/>
+		<set name="mDef" val="273.65463924"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="38"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+	</npc>
+	<npc id="22154" name="Ritual Sacrifice" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="25.8"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="30262"/>
+		<set name="sp" val="4064"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4614" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22155" name="Triol's High Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="19.1"/>
+		<set name="rHand" val="8206"/>
+		<set name="lHand" val="8206"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="48712"/>
+		<set name="sp" val="5875"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4065" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4641" level="9"/>
+		</skills>
+	</npc>
+	<npc id="22156" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="44041"/>
+		<set name="sp" val="5392"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22157" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="42196"/>
+		<set name="sp" val="5100"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22158" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8207"/>
+		<set name="lHand" val="8207"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="43021"/>
+		<set name="sp" val="5204"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="58"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4466" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22159" name="Triol's High Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="19.1"/>
+		<set name="rHand" val="8206"/>
+		<set name="lHand" val="8206"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="46305"/>
+		<set name="sp" val="5650"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4065" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4641" level="9"/>
+		</skills>
+	</npc>
+	<npc id="22160" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="40695"/>
+		<set name="sp" val="4976"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4065" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4641" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22161" name="Ritual Sacrifice" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="25.8"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="46095"/>
+		<set name="sp" val="5568"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="500" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4614" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22162" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8207"/>
+		<set name="lHand" val="8207"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="43272"/>
+		<set name="sp" val="5232"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="58"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4466" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22163" name="Triol's High Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="19.1"/>
+		<set name="rHand" val="8206"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="53725"/>
+		<set name="sp" val="6550"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4065" level="9"/>
+			<skill id="4088" level="9"/>
+			<skill id="4158" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4641" level="9"/>
+			<skill id="4655" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22164" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8207"/>
+		<set name="lHand" val="8207"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="40695"/>
+		<set name="sp" val="4976"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="58"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4612" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22165" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="42444"/>
+		<set name="sp" val="5128"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22166" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="54912"/>
+		<set name="sp" val="2752"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22167" name="Triol's High Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="19.1"/>
+		<set name="rHand" val="8206"/>
+		<set name="lHand" val="8206"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="51023"/>
+		<set name="sp" val="5855"/>
+		<set name="hp" val="3163.0432152"/>
+		<set name="mp" val="1955.34"/>
+		<set name="hpRegen" val="9.027"/>
+		<set name="mpRegen" val="3.1824"/>
+		<set name="pAtk" val="1076.9313816"/>
+		<set name="pDef" val="410.87895"/>
+		<set name="mAtk" val="781.2613576908"/>
+		<set name="mDef" val="300.66338448"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4065" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4641" level="9"/>
+		</skills>
+	</npc>
+	<npc id="22168" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="44462"/>
+		<set name="sp" val="5504"/>
+		<set name="hp" val="3163.0432152"/>
+		<set name="mp" val="1955.34"/>
+		<set name="hpRegen" val="9.027"/>
+		<set name="mpRegen" val="3.1824"/>
+		<set name="pAtk" val="1076.9313816"/>
+		<set name="pDef" val="410.87895"/>
+		<set name="mAtk" val="781.2613576908"/>
+		<set name="mDef" val="300.66338448"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22169" name="Ritual Sacrifice" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="25.8"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="46881"/>
+		<set name="sp" val="5768"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4614" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22170" name="Triol's Believer" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8207"/>
+		<set name="lHand" val="8207"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="55418"/>
+		<set name="sp" val="2776"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="58"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22171" name="Triol's High Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="19.1"/>
+		<set name="rHand" val="8206"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="59194"/>
+		<set name="sp" val="7300"/>
+		<set name="hp" val="3163.0432152"/>
+		<set name="mp" val="1955.34"/>
+		<set name="hpRegen" val="9.027"/>
+		<set name="mpRegen" val="3.1824"/>
+		<set name="pAtk" val="1076.9313816"/>
+		<set name="pDef" val="410.87895"/>
+		<set name="mAtk" val="781.2613576908"/>
+		<set name="mDef" val="300.66338448"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4065" level="9"/>
+			<skill id="4088" level="9"/>
+			<skill id="4158" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4641" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22172" name="Ritual Sacrifice" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="25.8"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="47170"/>
+		<set name="sp" val="5768"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="500" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4614" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22173" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="43447"/>
+		<set name="sp" val="5312"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4088" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+
+	</npc>
+	<npc id="22174" name="Triol's Priest" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="7.7"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8208"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="43021"/>
+		<set name="sp" val="5204"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="533.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="333.1240034"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="500" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4422" level="3"/>
+			<skill id="4622" level="9"/>
+			<skill id="4665" level="9"/>
+		</skills>
+	</npc>
+
+</list>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list maintainEnchantment="true">
+
+  <item id="1">
+    <production id="30026" count="1" enchant="25"/>
+    <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+           <item id="2">
+    <production id="30032" count="1" enchant="25"/>
+    <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+  
+           <item id="3">
+    <production id="30017" count="1" enchant="25"/>
+    <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+             <item id="4">
+    <production id="30030" count="1" enchant="25"/>
+    <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+               <item id="5">
+    <production id="30035" count="1" enchant="25"/>
+    <ingredient id="10000" count="150" enchant="0"/>
+  </item>
+  
+                 <item id="6">
+    <production id="30020" count="1" enchant="25"/>
+      <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+                   <item id="7">
+    <production id="30041" count="1" enchant="25"/>
+    <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+                   <item id="8">
+    <production id="30038" count="1" enchant="25"/>
+      <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+                   <item id="9">
+    <production id="30023" count="1" enchant="25"/>
+     <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+  
+     <item id="10">
+    <production id="18494" count="1" enchant="25"/>
+    <ingredient id="10000" count="150" enchant="0"/>
+  </item> 
+ 
+</list>

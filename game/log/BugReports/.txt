@@ -1,0 +1,3 @@
+Character Info: [Character:  - Account: admin - IP: 127.0.0.1]
+Bug Type: General
+Message:  estou tendo bugs

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list maintainEnchantment="true">
+
+  <item id="1">
+    <production id="9990" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+
+  </item> 
+  
+           <item id="2">
+    <production id="9991" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+
+  </item> 
+  
+  
+           <item id="3">
+    <production id="9992" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+
+  </item> 
+  
+             <item id="4">
+    <production id="9993" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+
+  </item> 
+  
+               <item id="5">
+    <production id="9994" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+ 
+  </item>
+  
+                 <item id="6">
+    <production id="9995" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+
+  </item> 
+  
+                   <item id="7">
+    <production id="9996" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+    
+  </item> 
+  
+                   <item id="8">
+    <production id="9997" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+ 
+  </item> 
+  
+                   <item id="9">
+    <production id="9998" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+
+  </item> 
+  
+     <item id="10">
+    <production id="9999" count="1" enchant="3"/>
+	<ingredient id="9500" count="40000" enchant="0"/>
+
+  </item> 
+ 
+</list>

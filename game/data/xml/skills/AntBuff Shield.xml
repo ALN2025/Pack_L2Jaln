@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="8000" levels="1" name="AntBuff Shield" >
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="CONT"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<for>
+			<effect count="0x7fffffff" name="DeflectBuff" time="3" val="0">
+			</effect>
+		</for>
+	</skill>
+</list>

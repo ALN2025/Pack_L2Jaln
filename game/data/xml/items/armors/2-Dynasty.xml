@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- Heavy -->
+<item id="9430" type="Armor" name="Dynasty Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9431" type="Armor" name="Dynasty Breastplate">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="204" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9432" type="Armor" name="Dynasty Gaiters">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="160" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9433" type="Armor" name="Dynasty Gauntlets">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9434" type="Armor" name="Dynasty Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9435" type="Armor" name="Dynasty Leather Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9436" type="Armor" name="Dynasty Leather Armor">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="186" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9437" type="Armor" name="Dynasty Leather Pants">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9438" type="Armor" name="Dynasty Leather Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9439" type="Armor" name="Dynasty Leather Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<!-- Robe -->
+
+<item id="9440" type="Armor" name="Dynasty Circlet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9441" type="Armor" name="Dynasty Robe">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="107" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9442" type="Armor" name="Dynasty Stockings">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9443" type="Armor" name="Dynasty Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9444" type="Armor" name="Dynasty Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+</list>

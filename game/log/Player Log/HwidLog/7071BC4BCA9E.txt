@@ -1,0 +1,2 @@
+03/02/2022 18:34:01 >>> HWID: [7071BC4BCA9E] >>> Jogador  [test]
+03/02/2022 19:03:14 >>> HWID: [7071BC4BCA9E] >>> Jogador  [test]

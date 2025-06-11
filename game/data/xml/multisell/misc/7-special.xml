@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Special Trader -->
+
+<list maintainEnchantment="true">
+
+  <!-- Giant Codex -->
+  <item id="1">
+    <ingredient id="9511" count="5"/>
+    <production id="6622" count="3"/>
+  </item>
+
+  <!-- Life Stone Gold -->
+  <item id="2">
+    <ingredient id="9511" count="5"/>
+    <production id="8762" count="1"/>
+  </item>
+  
+    <!-- Life Stone Gold -->
+  <item id="3">
+    <ingredient id="9511" count="5"/>
+    <production id="8752" count="1"/>
+  </item>
+
+  <!-- Book Lv.1 -->
+  <item id="4">
+    <ingredient id="9511" count="5"/>
+    <production id="8618" count="1"/>
+  </item>
+    
+  <!-- Book Lv.2 -->
+  <item id="5">
+    <ingredient id="9511" count="5"/>
+    <production id="8619" count="1"/>
+  </item>
+    
+  <!-- Book Lv.3 -->
+  <item id="6">
+    <ingredient id="9511" count="5"/>
+    <production id="8620" count="1"/>
+  </item>
+    
+  <!-- Book Lv.4 -->
+  <item id="7">
+    <ingredient id="9511" count="10"/>
+    <production id="8621" count="1"/>
+  </item>
+
+  <item id="8">
+	<ingredient id="9511" count="5"/>
+	<production id="8639" count="300"/>
+  </item>
+  
+  <item id="9">
+	<ingredient id="9511" count="5"/>
+	<production id="8627" count="300"/>
+  </item>
+
+  <item id="11">
+    <production id="5592" count="1000"/>
+	<ingredient id="9511" count="5"/>
+  </item>
+
+  <!-- Dragon Bugle Wind -->
+  <item id="13">
+    <ingredient id="9511" count="50"/>
+    <production id="4422" count="1"/>
+  </item>
+
+	
+  
+  <item id="16">
+    <production id="9504" count="1"/>
+	<ingredient id="9511" count="70"/>
+  </item>
+  
+</list>

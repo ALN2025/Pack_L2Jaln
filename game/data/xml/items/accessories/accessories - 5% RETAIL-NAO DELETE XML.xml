@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<item id="8922" type="Armor" name="Pirate Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>		
+	</item>
+	
+		<item id="8919" type="Armor" name="First Mate's Hat - Event Use">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+       <set name="is_oly_restricted" val="true" />	
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	
+		<item id="8565" type="Armor" name="Romantic Chapeau">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>		
+	</item>
+	
+		<item id="7837" type="Armor" name="Sayha's White Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	
+		<item id="7839" type="Armor" name="Gran Kain's Black Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	
+		<item id="8185" type="Armor" name="Feathered Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />	
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	
+		<item id="8186" type="Armor" name="Artisan's Goggles">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>		
+	</item>
+	
+		<item id="8187" type="Armor" name="Demon Horns">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>	
+	</item>
+	
+		<item id="8552" type="Armor" name="Mask of Spirits">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>
+	</item>
+	
+		<item id="8562" type="Armor" name="Jester Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>		
+	</item>
+	
+		<item id="8563" type="Armor" name="Wizard Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>	
+	</item>
+	
+		<item id="8564" type="Armor" name="Dapper Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>		
+	</item>
+	
+		<item id="9138" type="Armor" name="Santa's Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_oly_restricted" val="true" />				
+		<for>
+				<mul val='1.05' order='0x30' stat='pDef'/>
+				<mul val='1.05' order='0x30' stat='mDef'/>
+		</for>	
+	</item>
+</list>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+		<npc id="25299" name="Ketra's Hero Hekaton" title="Raid Boss">
+		<set name="level" val="80"/>
+		<set name="radius" val="17"/>
+		<set name="height" val="46.2"/>
+		<set name="rHand" val="6719"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="RaidBoss"/>
+		<set name="exp" val="3206477"/>
+		<set name="sp" val="835990"/>
+		<set name="hp" val="689061.053710865"/>
+		<set name="mp" val="1674.8"/>
+		<set name="hpRegen" val="92.3387631310317"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="1445.33274686674"/>
+		<set name="pDef" val="1185.643995"/>
+		<set name="mAtk" val="1426.64874503057"/>
+		<set name="mDef" val="578.3992"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="24"/>
+		<set name="runSpd" val="190"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="6"/>
+			<skill id="4494" level="1"/>
+			<skill id="4746" level="9"/>
+			<skill id="4903" level="1"/>
+		</skills>
+				<drops>
+			<category id="1">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="2">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="3">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="4">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+	
+			<category id="5">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="6">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="7">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="8">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="9">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="10">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+
+			<category id="11">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+            <category id="12">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="13">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="14">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="15">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="16">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="17">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="18">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="19">
+				<drop itemid="9500" min="1000" max="2000" chance="1000000"/>
+			</category>
+			<category id="20">
+				<drop itemid="9501" min="10" max="30" chance="1000000"/>
+			</category>
+			<category id="21">
+					<drop itemid="57" min="500000" max="1000000" chance="1000000"/>
+			</category>
+			<category id="22">
+				<drop itemid="9500" min="500" max="1000" chance="1000000"/>
+			</category>
+		</drops>
+		<minions>
+			<minion id="25300" min="3" max="3"/>
+			<minion id="25301" min="2" max="2"/>
+		</minions>
+	</npc>
+
+</list>

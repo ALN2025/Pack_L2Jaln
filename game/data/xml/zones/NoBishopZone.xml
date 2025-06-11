@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+<zone type="NoBishopZone" shape='Cylinder' minZ='-1792' maxZ='208' rad='5000'><!-- Rune Towship -->
+	<node X="43896" Y="-48312" />
+</zone>
+</list>

@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="22122" name="Monastic Pilgrim" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="12"/>
+		<set name="height" val="27.8"/>
+		<set name="rHand" val="148"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="35862"/>
+		<set name="sp" val="4232"/>
+		<set name="hp" val="2937.9838056"/>
+		<set name="mp" val="1708.296"/>
+		<set name="hpRegen" val="8.67"/>
+		<set name="mpRegen" val="3.06"/>
+		<set name="pAtk" val="512.6537108"/>
+		<set name="pDef" val="348.2025"/>
+		<set name="mAtk" val="635.688655236"/>
+		<set name="mDef" val="254.7994782"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="1"/>
+			<skill id="4065" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+		</skills>
+	</npc>
+	<npc id="22123" name="Monastic Crusader" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="13"/>
+		<set name="height" val="37.5"/>
+		<set name="rHand" val="1303"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="38777"/>
+		<set name="sp" val="4632"/>
+		<set name="hp" val="2975.2369188"/>
+		<set name="mp" val="1742.976"/>
+		<set name="hpRegen" val="8.721"/>
+		<set name="mpRegen" val="3.0804"/>
+		<set name="pAtk" val="512.20801458"/>
+		<set name="pDef" val="354.8183475"/>
+		<set name="mAtk" val="656.66638089"/>
+		<set name="mDef" val="259.6406685"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+		</skills>
+
+		<minions>
+			<minion id="22122" min="2" max="3"/>
+		</minions>
+	</npc>
+	<npc id="22124" name="Solina Brother" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="23.4"/>
+		<set name="rHand" val="8212"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="38777"/>
+		<set name="sp" val="4632"/>
+		<set name="hp" val="2975.2369188"/>
+		<set name="mp" val="1742.976"/>
+		<set name="hpRegen" val="8.721"/>
+		<set name="mpRegen" val="3.0804"/>
+		<set name="pAtk" val="512.20801458"/>
+		<set name="pDef" val="354.8183475"/>
+		<set name="mAtk" val="656.66638089"/>
+		<set name="mDef" val="259.6406685"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="61"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4410" level="16"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4467" level="3"/>
+			<skill id="4574" level="9"/>
+			<skill id="4589" level="1"/>
+		</skills>
+
+	</npc>
+	<npc id="22125" name="Solina Lay Brother" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="23.4"/>
+		<set name="rHand" val="8212"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="36416"/>
+		<set name="sp" val="4400"/>
+		<set name="hp" val="3010.8929976"/>
+		<set name="mp" val="1777.86"/>
+		<set name="hpRegen" val="8.772"/>
+		<set name="mpRegen" val="3.1008"/>
+		<set name="pAtk" val="512.93701102"/>
+		<set name="pDef" val="361.0859925"/>
+		<set name="mAtk" val="677.644106544"/>
+		<set name="mDef" val="264.22705872"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="61"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="MAGE" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4160" level="9"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4411" level="16"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4563" level="9"/>
+			<skill id="4613" level="1"/>
+		</skills>
+
+	</npc>
+	<npc id="22126" name="Silent Seeker" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="25.4"/>
+		<set name="rHand" val="8213"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="36416"/>
+		<set name="sp" val="4400"/>
+		<set name="hp" val="3010.8929976"/>
+		<set name="mp" val="1777.86"/>
+		<set name="hpRegen" val="8.772"/>
+		<set name="mpRegen" val="3.1008"/>
+		<set name="pAtk" val="512.93701102"/>
+		<set name="pDef" val="361.0859925"/>
+		<set name="mAtk" val="677.644106544"/>
+		<set name="mDef" val="264.22705872"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="70"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4410" level="16"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4467" level="3"/>
+			<skill id="4574" level="9"/>
+			<skill id="4589" level="1"/>
+		</skills>
+	</npc>
+	<npc id="22127" name="Silent Brother" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="25.4"/>
+		<set name="rHand" val="8212"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="37344"/>
+		<set name="sp" val="4564"/>
+		<set name="hp" val="3044.88717"/>
+		<set name="mp" val="1812.948"/>
+		<set name="hpRegen" val="8.823"/>
+		<set name="mpRegen" val="3.111"/>
+		<set name="pAtk" val="512.66600746"/>
+		<set name="pDef" val="367.3536375"/>
+		<set name="mAtk" val="699.2575207596"/>
+		<set name="mDef" val="268.81344996"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="70"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="MAGE" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4160" level="9"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4411" level="16"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4563" level="9"/>
+			<skill id="4613" level="1"/>
+		</skills>
+
+	</npc>
+	<npc id="22128" name="Monastery Guardian" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="15.6"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="9336"/>
+		<set name="sp" val="1141"/>
+		<set name="hp" val="3044.88717"/>
+		<set name="mp" val="1812.948"/>
+		<set name="hpRegen" val="8.823"/>
+		<set name="mpRegen" val="3.111"/>
+		<set name="pAtk" val="512.66600746"/>
+		<set name="pDef" val="367.3536375"/>
+		<set name="mAtk" val="699.2575207596"/>
+		<set name="mDef" val="268.81344996"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="65"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4336" level="2"/>
+			<skill id="4410" level="13"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4438" level="4"/>
+			<skill id="4439" level="4"/>
+			<skill id="4614" level="1"/>
+			<skill id="4671" level="1"/>
+		</skills>
+
+	</npc>
+	<npc id="22129" name="Warrior Monk" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="12"/>
+		<set name="height" val="28.4"/>
+		<set name="rHand" val="8211"/>
+		<set name="lHand" val="8210"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="42352"/>
+		<set name="sp" val="5240"/>
+		<set name="hp" val="3077.1572058"/>
+		<set name="mp" val="1848.24"/>
+		<set name="hpRegen" val="8.874"/>
+		<set name="mpRegen" val="3.1314"/>
+		<set name="pAtk" val="512.3950039"/>
+		<set name="pDef" val="373.969485"/>
+		<set name="mAtk" val="719.599557852"/>
+		<set name="mDef" val="273.65463924"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="53"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4410" level="16"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4467" level="3"/>
+			<skill id="4574" level="1"/>
+			<skill id="4643" level="1"/>
+		</skills>
+
+	</npc>
+	<npc id="22130" name="Divine Advocate" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="30"/>
+		<set name="rHand" val="6717"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="41566"/>
+		<set name="sp" val="5204"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="512.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="740.577283506"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="180"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4065" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4411" level="16"/>
+			<skill id="4413" level="17"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22131" name="Pilgrim of Light" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="38.5"/>
+		<set name="rHand" val="6718"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="51957"/>
+		<set name="sp" val="6505"/>
+		<set name="hp" val="3107.6436594"/>
+		<set name="mp" val="1883.736"/>
+		<set name="hpRegen" val="8.925"/>
+		<set name="mpRegen" val="3.1518"/>
+		<set name="pAtk" val="512.1240034"/>
+		<set name="pDef" val="380.23713"/>
+		<set name="mAtk" val="740.577283506"/>
+		<set name="mDef" val="278.24103048"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="165"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="MAGE" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4028" level="1"/>
+			<skill id="4029" level="1"/>
+			<skill id="4074" level="1"/>
+			<skill id="4099" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4411" level="15"/>
+			<skill id="4413" level="17"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22132" name="Judge of Light" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="13"/>
+		<set name="height" val="47"/>
+		<set name="rHand" val="8220"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="52432"/>
+		<set name="sp" val="6755"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="512.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4065" level="1"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="13"/>
+			<skill id="4410" level="14"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+		</skills>
+
+	</npc>
+	<npc id="22133" name="Guardian of the Grail" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="13"/>
+		<set name="height" val="22"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="10486"/>
+		<set name="sp" val="1351"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="512.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="8"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="80"/>
+		<set name="runSpd" val="140"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4336" level="2"/>
+			<skill id="4410" level="13"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="2"/>
+			<skill id="4423" level="3"/>
+			<skill id="4438" level="4"/>
+			<skill id="4439" level="4"/>
+			<skill id="4614" level="1"/>
+			<skill id="4671" level="1"/>
+		</skills>
+
+	</npc>
+	<npc id="22134" name="Guardian of the Holy Land" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="14"/>
+		<set name="height" val="34.5"/>
+		<set name="rHand" val="8214"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="42325"/>
+		<set name="sp" val="5604"/>
+		<set name="hp" val="3163.0432152"/>
+		<set name="mp" val="1955.34"/>
+		<set name="hpRegen" val="9.027"/>
+		<set name="mpRegen" val="3.1824"/>
+		<set name="pAtk" val="512.9313816"/>
+		<set name="pDef" val="410.87895"/>
+		<set name="mAtk" val="781.2613576908"/>
+		<set name="mDef" val="300.66338448"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="MAGE" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4160" level="9"/>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4411" level="16"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4563" level="9"/>
+			<skill id="4613" level="1"/>
+		</skills>
+
+	</npc>
+	<npc id="22135" name="Beholder of Light" title="">
+		<set name="level" val="78"/>
+		<set name="radius" val="13"/>
+		<set name="height" val="47"/>
+		<set name="rHand" val="8221"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="63488"/>
+		<set name="sp" val="8406"/>
+		<set name="hp" val="3163.0432152"/>
+		<set name="mp" val="1955.34"/>
+		<set name="hpRegen" val="9.027"/>
+		<set name="mpRegen" val="3.1824"/>
+		<set name="pAtk" val="512.9313816"/>
+		<set name="pDef" val="410.87895"/>
+		<set name="mAtk" val="781.2613576908"/>
+		<set name="mDef" val="300.66338448"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="120"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="solina_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4336" level="2"/>
+			<skill id="4408" level="14"/>
+			<skill id="4410" level="16"/>
+			<skill id="4413" level="17"/>
+			<skill id="4416" level="8"/>
+			<skill id="4423" level="3"/>
+			<skill id="4574" level="1"/>
+		</skills>
+
+		<minions>
+			<minion id="22130" min="1" max="1"/>
+			<minion id="22131" min="1" max="1"/>
+		</minions>
+	</npc>
+</list>

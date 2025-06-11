@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-Grade Armors -->
+
+<list>
+  
+  <!-- Imperial Crusader Breastplate -->
+  <item id="1">
+		<production id="6373" count="1"/><!-- Imperial Crusader Breastplate -->
+		<ingredient id="6674" count="1"/><!-- Imperial Crusader Breastplate sellado  -->
+		<ingredient id="6392" count="100"/><!-- Event medal Drop Solo-->
+		<ingredient id="3470" count="50"/><!-- Gold Bar -->
+  </item>
+    <item id="1">
+		<production id="6373" count="1"/><!-- Imperial Crusader Breastplate -->
+		<ingredient id="6677" count="1"/><!-- Imperial Crusader Breastplate sellado  -->
+		<ingredient id="6392" count="100"/><!-- Event medal Drop Solo-->
+		<ingredient id="3470" count="50"/><!-- Gold Bar -->
+  </item>
+
+  <!-- Draconic Leather Armor -->
+<item id="1"> 
+        <ingredient id="6392" count="50"/><!-- Event meda Drop Solo-->
+		<ingredient id="3470" count="10"/><!-- Gold Bar -->
+		<ingredient id="6683" count="1"/><!-- Helmo Draconic sellado -->
+		<production id="6382" count="1" /><!-- Helmo Draconic  -->
+		</item>
+<item id="2">
+        <ingredient id="6392" count="50"/><!-- Event meda Drop Solo-->
+		<ingredient id="3470" count="10"/><!-- Gold Bar -->
+		<ingredient id="6680" count="1"/><!-- Peito Draconic sellado -->
+		<production id="6379" count="1" /><!-- Peito Draconic  -->
+		</item>
+<item id="3">
+        <ingredient id="6392" count="50"/><!-- Event meda Drop Solo-->
+		<ingredient id="3470" count="10"/><!-- Gold Bar -->
+		<ingredient id="6681" count="1"/><!-- Luva Draconic sellado -->
+		<production id="6380" count="1"/> <!-- Luva Draconic  -->
+		 </item>
+<item id="4">
+        <ingredient id="6392" count="50"/><!-- Event meda Drop Solo-->
+		<ingredient id="3470" count="10"/><!-- Gold Bar -->
+		<ingredient id="6682" count="1"/><!-- Bota Draconic sellado -->
+		<production id="6381" count="1" /><!-- Bota Draconic -->
+        </item>	 
+  <!-- Major Arcana Robe -->
+  <item id="10">
+		<ingredient id="2126" count="10000"/>
+		<ingredient id="3470" count="5"/>
+		<production id="6383" count="1" />
+		<production id="6386" count="1" />
+		<production id="6384" count="1" />
+		<production id="6385" count="1" />
+        </item>
+
+	
+     
+</list>

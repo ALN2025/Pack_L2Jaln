@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Misc -->
+
+<list>
+   
+  <!-- Boss Quest -->
+  <item id="1">
+    <ingredient id="57" count="10000000"/>
+    <production id="4295" count="1"/>
+  </item>
+  
+  <!-- Boss Quest -->
+  <item id="2">
+    <ingredient id="57" count="10000000"/>
+    <production id="3865" count="1"/>
+  </item>
+  
+  <!-- Boss Quest -->  
+  <item id="4">
+    <ingredient id="57" count="10000000"/>
+    <production id="7267" count="1"/>
+  </item>
+    
+  <item id="6">
+    <ingredient id="57" count="13000000"/>
+    <production id="5234" count="1"/>
+  </item>
+
+</list>

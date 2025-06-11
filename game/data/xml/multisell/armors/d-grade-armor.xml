@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Gm Shop Lineage II - Edivas -->
+<!-- Armor D-Grade -->
+
+
+<list maintainEnchantment="true">
+
+  <!-- Brigandine Helmet -->
+  <item id="1">
+    <production id="2411" count="1"/>
+  </item>
+  
+  <!-- Brigandine Tunic -->
+  <item id="2">
+    <production id="352" count="1"/>
+  </item>  
+  
+  <!-- Brigandine Gaiters -->
+  <item id="3">
+    <production id="2378" count="1"/>
+  </item>
+ 
+  <!-- Brigandine Gauntlets -->
+  <item id="4">
+    <production id="2449" count="1"/>
+  </item>
+  
+  <!-- Brigandine Boots -->
+  <item id="5">
+    <production id="2425" count="1"/>
+  </item>
+
+  <!-- Necklace of Darkness -->
+  <item id="5">
+    <production id="2493" count="1"/>
+  </item>
+    
+  <!-- Plate Helmet -->
+  <item id="6">
+    <production id="2412" count="1"/>
+  </item>
+  
+  <!-- Manticore Skin Shirt -->
+  <item id="7">
+    <production id="395" count="1"/>
+  </item>
+  
+  <!-- Manticore Skin Gaiters -->
+  <item id="8">
+    <production id="417" count="1"/>
+  </item>
+
+  <!-- Manticore Skin Gloves -->
+  <item id="9">
+    <production id="2448" count="1"/>
+  </item>
+  
+  <!-- Manticore Skin Boots -->
+  <item id="10">
+    <production id="2424" count="1"/>
+  </item>
+  
+    <!-- Black Pearl Ring -->
+  <item id="11">
+    <production id="2493" count="1"/>
+  </item>
+  
+  <!-- Helmet -->
+  <item id="12">
+    <production id="47" count="1"/>
+  </item>
+
+  <!-- Mithril Tunic -->
+  <item id="13">
+    <production id="437" count="1"/>
+  </item>
+
+  <!-- Mithril Stockings -->
+  <item id="14">
+    <production id="470" count="1"/>
+  </item>
+
+  <!-- Elven Mithril Gloves -->
+  <item id="15">
+  <ingredient id="57" count="700000"/>
+    <production id="2450" count="1"/>
+  </item>
+  
+  <!-- Elven Mithril Boots -->
+  <item id="16">
+    <production id="2426" count="1"/>
+  </item>
+  
+    <!-- Omen Beast's Eye Earring -->
+  <item id="17">
+    <production id="626" count="1"/>
+  </item>
+  
+</list>

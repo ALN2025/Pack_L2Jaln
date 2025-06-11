@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="25245" name="Last Lesser Giant Glaki" title="Raid Boss">
+		<set name="level" val="80"/>
+		<set name="radius" val="30"/>
+		<set name="height" val="66"/>
+		<set name="rHand" val="179"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="RaidBoss"/>
+		<set name="exp" val="3206477"/>
+		<set name="sp" val="835990"/>
+		<set name="hp" val="689061.053710865"/>
+		<set name="mp" val="1674.8"/>
+		<set name="hpRegen" val="92.3387631310317"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="1445.33274686674"/>
+		<set name="pDef" val="1185.643995"/>
+		<set name="mAtk" val="1426.64874503057"/>
+		<set name="mDef" val="578.3992"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="15"/>
+		<set name="runSpd" val="95"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4182" level="8"/>
+			<skill id="4188" level="8"/>
+			<skill id="4194" level="8"/>
+			<skill id="4416" level="11"/>
+			<skill id="4494" level="1"/>
+			<skill id="4879" level="1"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="2">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="3">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="4">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+	
+			<category id="5">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="6">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="7">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="8">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="9">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="10">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+
+			<category id="11">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+            <category id="12">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="13">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="14">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="15">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="16">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="17">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="18">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="19">
+				<drop itemid="9500" min="1000" max="2000" chance="1000000"/>
+			</category>
+			<category id="20">
+				<drop itemid="9501" min="10" max="30" chance="1000000"/>
+			</category>
+			<category id="21">
+					<drop itemid="57" min="500000" max="1000000" chance="1000000"/>
+			</category>
+			<category id="22">
+				<drop itemid="9500" min="500" max="1000" chance="1000000"/>
+			</category>
+		</drops>
+		<minions>
+			<minion id="25246" min="1" max="1"/>
+			<minion id="25247" min="4" max="4"/>
+		</minions>
+	</npc>
+	
+	
+		<npc id="25246" name="Glaki's Henchman" title="Raid Fighter">
+		<set name="level" val="80"/>
+		<set name="radius" val="21"/>
+		<set name="height" val="44"/>
+		<set name="rHand" val="169"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="3172"/>
+		<set name="hp" val="65002.8274619887"/>
+		<set name="mp" val="1574"/>
+		<set name="hpRegen" val="125.407546014654"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="10195.5578341013"/>
+		<set name="pDef" val="492.406095"/>
+		<set name="mAtk" val="14646.9122064601"/>
+		<set name="mDef" val="480.42"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="15"/>
+		<set name="runSpd" val="150"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="11"/>
+			<skill id="4725" level="8"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="1344" min="60" max="180" chance="381000"/>
+			</category>
+		</drops>
+	</npc>
+	<npc id="25247" name="Glaki's Servant" title="Raid Fighter">
+		<set name="level" val="80"/>
+		<set name="radius" val="21"/>
+		<set name="height" val="44"/>
+		<set name="rHand" val="166"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="3172"/>
+		<set name="hp" val="32501.4137309943"/>
+		<set name="mp" val="1574"/>
+		<set name="hpRegen" val="125.407546014654"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="5097.77891705067"/>
+		<set name="pDef" val="492.406095"/>
+		<set name="mAtk" val="3661.72805161503"/>
+		<set name="mDef" val="480.42"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="15"/>
+		<set name="runSpd" val="140"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="11"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="1344" min="60" max="180" chance="381000"/>
+			</category>
+		</drops>
+	</npc>
+</list>

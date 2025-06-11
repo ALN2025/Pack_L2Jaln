@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<!-- Fafurious -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4728' maxZ='-2728' rad='2000'>
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="102648" Y="157272" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+
+<!-- Water Dragon -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4672' maxZ='-2672' rad='2000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="107928" Y="157368" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+<!-- Krokian -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4736' maxZ='-2736' rad='2000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="119720" Y="157480" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+<!-- Ocean Flame -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4656' maxZ='-2656' rad='2000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="123864" Y="153448" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+<!-- Palibati Queen -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4603' maxZ='-2603' rad='5000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="192376" Y="22087" />
+	    <spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+<!-- Beath Lord -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4476' maxZ='-2476' rad='3000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="123504" Y="-23696" />
+	    <spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+<!-- Plague Golem -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4495' maxZ='-2495' rad='3000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="170000" Y="-60000" />
+	    <spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+	<!-- last oulkuth -->
+<zone type="RaidZone" shape='Cylinder' minZ='-6851' maxZ='-4851' rad='3000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="187360" Y="45840" />
+	    <spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+	<!-- last giant -->
+<zone type="RaidZone" shape='Cylinder' minZ='-6395' maxZ='-4395' rad='3000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="172000" Y="55000" />
+	    <spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+
+	<!-- taik high -->
+<zone type="RaidZone" shape='Cylinder' minZ='-5827' maxZ='-3827' rad='3000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="170320" Y="42640" />
+	    <spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+<!-- Lord iska -->
+<zone type="RaidZone" shape='Cylinder' minZ='-4013' maxZ='-2013' rad='3000'>
+        <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="115072" Y="112272" />
+	    <spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+</zone>
+
+	<!-- Epic Boss: Core -->
+	<zone type="RaidZone" shape="Cylinder" minZ="-7000" maxZ="-5500" rad="4000">
+		
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="17720" Y="110939" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+	</zone>
+	
+	<!-- Epic Boss: Orfen -->
+	<zone type="RaidZone" shape="Cylinder" minZ="-6000" maxZ="-3600" rad="11600">
+		
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="52258" Y="21861" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+	</zone>
+
+	<!-- Epic Boss: Queen Ant -->
+	<zone type="RaidZone" shape="Cylinder" minZ="-7000" maxZ="-4500" rad="12500">
+		
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="-21569" Y="182113" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+	</zone>
+	
+	<!-- Zaken -->
+    <zone type='RaidZone' shape='Cylinder' minZ='-4499' maxZ='-2499' rad='3500'>
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	<node X="54205" Y="220109" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+    </zone>
+	
+	<!-- Epic Boss: Frintezza (Imperial Tomb) -->
+	<zone type="RaidZone" shape="Cylinder" minZ="-6117" maxZ="-4117" rad="5000">
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="174233" Y="-88006" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+	</zone>
+	
+	<!-- Epic Boss: Baium -->
+	<zone type="RaidZone" shape="Cylinder" minZ='-10000' maxZ='20000' rad='11600'>
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="115192" Y="16617" />
+		<spawn X="83400" Y="148179" Z="-3405" />
+		<spawn X="83478" Y="148634" Z="-3405" />
+		<spawn X="83492" Y="149102" Z="-3405" />
+	</zone>
+	
+	<!-- Epic Boss: Antharas -->
+	<zone type="RaidZone" shape="Cylinder" minZ="-8500" maxZ="-4000" rad="15000">
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	    <node X="177512" Y="114696" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>	
+	
+	<!-- Epic Boss: Valakas -->
+	<zone type="RaidZone" shape="Cylinder" minZ="-2000" maxZ="1000" rad="15000">
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+	    <node X="212904" Y="-114696" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>	
+	
+		<zone type="RaidZone" shape="Cylinder" minZ="-2000" maxZ="-1500" rad="1500"><!-- Sailren's Nest -->
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="27513" Y="-6772" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>
+	
+	<!-- Raid Boss: Horus -->
+	<zone type="RaidZone" shape="Cylinder" minZ='-5000' maxZ='-100' rad='3500'>
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="105791" Y="-42333" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>
+
+	<!-- Ketra Hecaton 100% -->		
+	<zone type='RaidZone' shape='Cylinder' minZ='-5000' maxZ='-4570' rad='2000'>
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="148008" Y="-74232" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>	
+	<!-- Varka Shadit 100% -->		
+	<zone type='RaidZone' shape='Cylinder' minZ='-3506' maxZ='-1506' rad='3500'>
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="115279" Y="-39579" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>	
+
+	<!-- Brakki && Tayr 80% -->		
+	<zone type="RaidZone" shape="Cuboid" minZ="-10000" maxZ="-5800"><!-- varkas 2 -->
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="147699" Y="-79147" />
+		<node X="143351" Y="-86860" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>
+	
+	<!-- Varka Moss 100% -->			
+	<zone type='RaidZone' shape='Cylinder' minZ='-1500' maxZ='-640' rad='2300'>
+			
+	    <stat name="checkClan" val="true" />
+	    <stat name="checkAlly" val="true" />
+		<stat name="checkParty" val="false" />
+		<stat name="MaxClanMembers" val="27" />
+		<stat name="MaxAllyMembers" val="27" />
+		<stat name="MinPartyMembers" val="2" />
+		<node X="109112" Y="-35960" />
+		<spawn X="83441" Y="148153" Z="-3405" />
+		<spawn X="83487" Y="148625" Z="-3405" />
+		<spawn X="83477" Y="149070" Z="-3405" />
+		<spawn X="82433" Y="148040" Z="-3464" />
+		<spawn X="82567" Y="148617" Z="-3469" />
+		<spawn X="82324" Y="149232" Z="-3469" />
+	</zone>	
+
+</list>

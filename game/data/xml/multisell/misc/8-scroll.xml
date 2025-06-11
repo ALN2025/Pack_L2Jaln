@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Scrolls -->
+
+<list>
+
+
+	<!-- Blessed Scroll: Enchant Weapon (Grade B) -->
+  <item id="7">
+    <production id="6571" count="1"/>
+	<ingredient id="9500" count="800"/>
+  </item>
+  
+  <!-- Blessed Scroll: Enchant Armor (Grade B) -->
+  <item id="8">
+    <production id="6572" count="1"/>
+	<ingredient id="9500" count="400"/>
+  </item>
+  
+	<!-- Blessed Scroll: Enchant Weapon (Grade A) -->
+    <item id="9">
+    <production id="6569" count="1"/>
+	<ingredient id="9500" count="800"/>
+  </item>
+  
+  <!-- Blessed Scroll: Enchant Armor (Grade A) -->
+  <item id="10">
+    <production id="6570" count="1"/>
+	<ingredient id="9500" count="400"/>
+  </item>
+  
+	<!-- Blessed Scroll: Enchant Weapon (Grade S) -->
+  <item id="11">
+    <production id="6577" count="1"/>
+	<ingredient id="9500" count="800"/>
+  </item>
+  
+  <!-- Blessed Scroll: Enchant Armor (Grade S) -->
+  <item id="12">
+    <production id="6578" count="1"/>
+	<ingredient id="9500" count="400"/>
+  </item>
+  
+  <!-- Crystal Scroll: Enchant Weapon (Grade B) -->
+  <item id="13">
+    <production id="949" count="1"/>
+	<ingredient id="9501" count="10"/>
+	<ingredient id="9500" count="30000"/>
+  </item>
+  
+  <!-- Crystal Scroll: Enchant Armor (Grade B) -->
+  <item id="14">
+    <production id="950" count="1"/>
+	<ingredient id="9501" count="10"/>
+	<ingredient id="9500" count="30000"/>
+  </item>
+  
+  <!-- Crystal Scroll: Enchant Weapon (Grade A) -->
+  <item id="15">
+    <production id="731" count="1"/>
+	<ingredient id="9501" count="10"/>
+	<ingredient id="9500" count="30000"/>
+  </item>
+  
+  <!-- Crystal Scroll: Enchant Armor (Grade A) -->
+  <item id="16">
+    <production id="732" count="1"/>
+	<ingredient id="9501" count="10"/>
+	<ingredient id="9500" count="30000"/>
+  </item>
+  
+  <!-- Crystal Scroll: Enchant Weapon (Grade S) -->
+  <item id="17">
+    <production id="961" count="1"/>
+	<ingredient id="9501" count="10"/>
+	<ingredient id="9500" count="30000"/>
+  </item>
+  
+  <!-- Crystal Scroll: Enchant Armor (Grade S) -->
+  <item id="18">
+    <production id="962" count="1"/>
+	<ingredient id="9501" count="10"/>
+	<ingredient id="9500" count="30000"/>
+  </item>
+
+
+</list>

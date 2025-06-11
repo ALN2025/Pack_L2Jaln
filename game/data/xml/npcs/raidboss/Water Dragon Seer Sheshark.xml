@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="25199" name="Water Dragon Seer Sheshark" title="Raid Boss">
+		<set name="level" val="80"/>
+		<set name="radius" val="10"/>
+		<set name="height" val="29"/>
+		<set name="rHand" val="181"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="RaidBoss"/>
+		<set name="exp" val="3206477"/>
+		<set name="sp" val="835990"/>
+		<set name="hp" val="689061.053710865"/>
+		<set name="mp" val="1674.8"/>
+		<set name="hpRegen" val="92.3387631310317"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="1445.33274686674"/>
+		<set name="pDef" val="1185.643995"/>
+		<set name="mAtk" val="1426.64874503057"/>
+		<set name="mDef" val="578.3992"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="43"/>
+		<set name="runSpd" val="200"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4197" level="7"/>
+			<skill id="4278" level="1"/>
+			<skill id="4333" level="5"/>
+			<skill id="4416" level="6"/>
+			<skill id="4494" level="1"/>
+			<skill id="4986" level="1"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="2">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="3">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="4">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+	
+			<category id="5">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="6">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="7">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="8">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="9">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="10">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+
+			<category id="11">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+            <category id="12">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="13">
+				<drop itemid="6577" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="14">
+				<drop itemid="6578" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="15">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			<category id="16">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="17">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="18">
+				<drop itemid="6572" min="2" max="5" chance="1000000"/>
+			</category>
+			
+			<category id="19">
+				<drop itemid="9500" min="1000" max="2000" chance="1000000"/>
+			</category>
+			<category id="20">
+				<drop itemid="9501" min="10" max="30" chance="1000000"/>
+			</category>
+			<category id="21">
+					<drop itemid="57" min="500000" max="1000000" chance="1000000"/>
+			</category>
+			<category id="22">
+				<drop itemid="9500" min="500" max="1000" chance="1000000"/>
+			</category>
+		</drops>
+		<minions>
+			<minion id="25200" min="3" max="3"/>
+			<minion id="25201" min="1" max="1"/>
+		</minions>
+	</npc>
+	
+		<npc id="25200" name="Family of Sheshark" title="Raid Fighter">
+		<set name="level" val="80"/>
+		<set name="radius" val="12"/>
+		<set name="height" val="50"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="2464"/>
+		<set name="hp" val="40576.8689968822"/>
+		<set name="mp" val="1377.8"/>
+		<set name="hpRegen" val="118.846913053688"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="5916.53341853816"/>
+		<set name="pDef" val="450.980385"/>
+		<set name="mAtk" val="5656.07573095981"/>
+		<set name="mDef" val="440.02"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="100"/>
+		<set name="runSpd" val="170"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4195" level="7"/>
+			<skill id="4200" level="7"/>
+			<skill id="4416" level="3"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="1344" min="20" max="60" chance="957000"/>
+			</category>
+		</drops>
+	</npc>
+	<npc id="25201" name="Guard of Sheshark" title="Raid Fighter">
+		<set name="level" val="80"/>
+		<set name="radius" val="12"/>
+		<set name="height" val="30"/>
+		<set name="rHand" val="6370"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="2464"/>
+		<set name="hp" val="60562.4910401227"/>
+		<set name="mp" val="1377.8"/>
+		<set name="hpRegen" val="118.846913053688"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="8875.02200335732"/>
+		<set name="pDef" val="450.980385"/>
+		<set name="mAtk" val="12726.7271889741"/>
+		<set name="mDef" val="440.02"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="52"/>
+		<set name="runSpd" val="170"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="6"/>
+			<skill id="4724" level="7"/>
+		</skills>
+		<drops>
+			<category id="1">
+				<drop itemid="1344" min="20" max="60" chance="957000"/>
+			</category>
+		</drops>
+	</npc>
+
+</list>

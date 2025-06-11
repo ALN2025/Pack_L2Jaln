@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list maintainEnchantment="true">
+
+  
+    <!-- helmet -->
+  <item id="1">
+    <production id="9990" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+           <item id="2">
+    <production id="9991" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+  
+           <item id="3">
+    <production id="9992" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+             <item id="4">
+    <production id="9993" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+               <item id="5">
+    <production id="9994" count="1" enchant="25"/>
+      <ingredient id="10000" count="50" enchant="0"/>
+  </item>
+  
+                 <item id="6">
+    <production id="9995" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+                   <item id="7">
+    <production id="9996" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+                   <item id="9">
+    <production id="9997" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+     <item id="10">
+    <production id="9998" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+    
+   <item id="11">
+    <production id="9999" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item>
+  
+     <item id="12">
+    <production id="9910" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+       <item id="13">
+    <production id="9911" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+  
+       <item id="14">
+    <production id="9912" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="15">
+    <production id="9913" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="16">
+    <production id="9914" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="17">
+    <production id="9915" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="18">
+    <production id="9916" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="19">
+    <production id="9917" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="20">
+    <production id="9918" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="21">
+    <production id="9919" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="22">
+    <production id="9920" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="23">
+    <production id="9921" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="24">
+    <production id="9922" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="25">
+    <production id="9923" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="26">
+    <production id="9924" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+         <item id="27">
+    <production id="9925" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+  
+  
+    	<!-- Frintezza Necklace -->
+  <item id="28">
+    <production id="8191" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item>
+	
+  <!-- Queen Ant -->
+  <item id="29">
+    <production id="6660" count="1" enchant="25"/>
+    <ingredient id="10000" count="65" enchant="0"/>
+  </item>
+  
+  <!-- Zaken Earring -->
+  <item id="30">
+    <production id="6659" count="1" enchant="25"/>
+    <ingredient id="10000" count="65" enchant="0"/>
+  </item>
+  
+  <!-- Ring of Baium -->
+  <item id="31">
+    <production id="6658" count="1" enchant="25"/>
+    <ingredient id="10000" count="70" enchant="0"/>
+  </item>
+
+  <!-- Antharas Earring -->
+  <item id="32">
+    <production id="6656" count="1" enchant="25"/>
+	    <ingredient id="10000" count="75" enchant="0"/>
+  </item>
+
+  
+  <!-- Valakas Necklace -->
+  <item id="33">
+    <production id="6657" count="1" enchant="25"/>
+    <ingredient id="10000" count="80" enchant="0"/>
+  </item>
+  
+    <!-- Earring of Orfen -->
+  <item id="34">
+    <production id="6661" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item>
+  
+  <!-- Ring of Sailren -->
+  <item id="35">
+    <production id="9526" count="1" enchant="25"/>
+    <ingredient id="10000" count="65" enchant="0"/>
+  </item>
+  
+      <!-- Ring of Core -->
+  <item id="36">
+    <production id="6662" count="1" enchant="25"/>
+    <ingredient id="10000" count="50" enchant="0"/>
+  </item>
+
+</list>

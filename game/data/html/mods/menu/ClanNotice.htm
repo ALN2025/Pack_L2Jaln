@@ -1,0 +1,34 @@
+<html><title>Clan Notice</title>
+<body>
+<table width=80>
+<tr>
+<td><button value="" action="bypass voiced_menu" width=35 height=23 back="L2UI_CH3.calculate2_bs_down" fore="L2UI_CH3.calculate2_bs"></td>
+<td> Menu </td>
+</tr>
+</table>
+<br1>
+<center> Use tag<font color="LEVEL"> < br1></font> to jump one line.<br1>
+Use tag<font color="LEVEL">< br></font> to jump two lines.</center><br>
+<center> Use a tag<font color="LEVEL"> < br1></font> para pular uma linha.<br1>
+Use a tag<font color="LEVEL">< br></font> para pular duas linhas.</center>
+<center>
+<br>
+<multiedit var="mes" width=260 height=50><br>
+<table width=190>
+	<tr>
+		<td><a value="Save Notice" action="bypass -h voiced_setmes $mes">Save Notice</a></td>
+		<td><a value="Notice ON" action="bypass -h voiced_noticeenable">Notice ON</a></td>
+		<td><a value="Notice OFF" action="bypass -h voiced_noticedisable">Notice OFF</a></td> 
+	</tr>
+</table>
+<br>
+<center><font color="LEVEL">%noticed%</font></center>
+	<br>
+	<img src="L2UI_CH3.herotower_deco" align="center" width="256" height="32">
+	<br>
+</center>
+<font color="LEVEL">Notice: </font>%mes%
+
+ <br>
+
+</body></html>
